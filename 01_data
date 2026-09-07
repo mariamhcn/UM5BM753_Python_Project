@@ -1,1 +1,9 @@
+# Data
 
+The original dataset is not included in this repository because of its size.
+
+Dataset : NHANES 1988–2018
+
+Source : Kaggle - nguyenvy/nhanes-19882018 , ***include link***
+
+Place the downloaded file in : data/raw/
