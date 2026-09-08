@@ -1,7 +1,7 @@
 # UM5BM753_Python_Project
 # NHANES Supervised Learning Project
 
-Supervised learning project using NHANES 1988–2018 data made by -----
+Supervised learning project using NHANES 1988–2018 data made by ___
 
 ## Objective
 
@@ -10,7 +10,7 @@ clinical and questionnaire variables from NHANES.
 
 ## Dataset
 
-NHANES 1988–2018.
+NHANES 1988–2018 - https://www.kaggle.com/datasets/nguyenvy/nhanes-19882018/data?select=weights_clean.csv
 
 ## Project structure
 
