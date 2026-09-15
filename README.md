@@ -1,16 +1,16 @@
 # UM5BM753_Python_Project
-# NHANES Supervised Learning Project
+# CC Supervised Learning Project
 
-Supervised learning project using NHANES 1988–2018 data made by ___
+Supervised learning project 
 
 ## Objective
 
 The objective of this project is to ??? using demographic,
-clinical and questionnaire variables from NHANES.
+clinical and questionnaire variables from .
 
 ## Dataset
 
-NHANES 1988–2018 - https://www.kaggle.com/datasets/nguyenvy/nhanes-19882018/data?select=weights_clean.csv
+Cervical cancer dataset
 
 ## Project structure
 
@@ -23,9 +23,12 @@ NHANES 1988–2018 - https://www.kaggle.com/datasets/nguyenvy/nhanes-19882018/da
 
 ## Workflow
 
-1. Explore NHANES variables
+1. Explore Cervical dataset variables
 2. Define target and predictors
 3. Preprocess data
 4. Train / test split
 5. Train supervised learning models
 6. Evaluate and compare models
+
+ARTIFACT
+https://claude.ai/artifact/Wr4YcLnEYj6Xu4rizGnrbD
