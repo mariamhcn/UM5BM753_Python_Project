@@ -1,0 +1,359 @@
+<!doctype html>
+<title>Cervical Cancer Risk Factors</title>
+<style>
+  :root{
+    color-scheme: light;
+    --ground:      #f9f9f7;
+    --surface:     #fcfcfb;
+    --surface-2:   #f3f2ee;
+    --ink:         #0b0b0b;
+    --ink-2:       #52514e;
+    --muted:       #898781;
+    --line:        #e1e0d9;
+    --accent:      #2a78d6;
+    --accent-soft: #cde2fb;
+    --accent-2:    #eb6834;
+    --accent-2-soft: #fbe3d6;
+    --good:        #2f8a5b;
+    --good-soft:   #d9f0e4;
+    --baseline:    #c3c2b7;
+    --baseline-soft: #ecebe6;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      color-scheme: dark;
+      --ground:      #0d0d0d;
+      --surface:     #1a1a19;
+      --surface-2:   #212120;
+      --ink:         #ffffff;
+      --ink-2:       #c3c2b7;
+      --muted:       #898781;
+      --line:        #2c2c2a;
+      --accent:      #3987e5;
+      --accent-soft: #17324f;
+      --accent-2:    #d95926;
+      --accent-2-soft: #3a2419;
+      --good:        #3ea873;
+      --good-soft:   #163a29;
+      --baseline:    #383835;
+      --baseline-soft: #232322;
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --ground:      #0d0d0d;
+    --surface:     #1a1a19;
+    --surface-2:   #212120;
+    --ink:         #ffffff;
+    --ink-2:       #c3c2b7;
+    --muted:       #898781;
+    --line:        #2c2c2a;
+    --accent:      #3987e5;
+    --accent-soft: #17324f;
+    --accent-2:    #d95926;
+    --accent-2-soft: #3a2419;
+    --good:        #3ea873;
+    --good-soft:   #163a29;
+    --baseline:    #383835;
+    --baseline-soft: #232322;
+  }
+
+  *{ box-sizing: border-box; }
+  html, body{ margin: 0; padding: 0; }
+  body{
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .page{ max-width: 880px; margin: 0 auto; padding: 48px 24px 88px; }
+  h1, h2, h3{ font-family: "IBM Plex Serif", Georgia, serif; font-weight: 600; text-wrap: balance; margin: 0; }
+  code, .mono{ font-family: "IBM Plex Mono", ui-monospace, Menlo, monospace; }
+  .tnum{ font-variant-numeric: tabular-nums; }
+
+  .masthead{ display: flex; flex-direction: column; gap: 6px; padding-bottom: 20px; margin-bottom: 32px; border-bottom: 1px solid var(--line); }
+  .masthead h1{ font-size: 30px; line-height: 1.15; }
+  .masthead .sub{ font-size: 13.5px; color: var(--ink-2); }
+
+  section{ margin-bottom: 44px; }
+  section > h2{ font-size: 20px; margin-bottom: 4px; }
+  section > .lede{ font-size: 14px; color: var(--ink-2); max-width: 65ch; line-height: 1.55; margin-bottom: 18px; }
+
+  .tiles{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .tile{ background: var(--surface); padding: 16px 16px 14px; display: flex; flex-direction: column; gap: 4px; }
+  .tile .value{ font-family: "IBM Plex Serif", serif; font-weight: 600; font-size: 26px; font-variant-numeric: tabular-nums; }
+  .tile .label{ font-size: 12px; color: var(--ink-2); }
+  @media (max-width: 640px){ .tiles{ grid-template-columns: repeat(2,1fr); } }
+
+  .table-wrap{ overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
+  table{ border-collapse: collapse; width: 100%; font-size: 13px; min-width: 480px; }
+  thead th{ text-align: left; font-weight: 500; color: var(--muted); font-size: 11px; letter-spacing: 0.04em; text-transform: uppercase; padding: 10px 14px; border-bottom: 1px solid var(--line); background: var(--surface-2); }
+  tbody td{ padding: 9px 14px; border-bottom: 1px solid var(--line); color: var(--ink-2); }
+  tbody tr:last-child td{ border-bottom: none; }
+  tbody td.name{ color: var(--ink); font-weight: 500; }
+  tbody td.num{ text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr:hover td{ background: var(--surface-2); }
+  .pill{ display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 11px; font-weight: 500; }
+  .pill.drop{ background: var(--accent-2-soft); color: var(--accent-2); }
+  .pill.fill{ background: var(--accent-soft); color: var(--accent); }
+  .pill.keep{ background: var(--baseline-soft); color: var(--ink-2); }
+  .delta-down{ color: var(--accent-2); font-variant-numeric: tabular-nums; }
+  .delta-flat{ color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  .chart-card{ border: 1px solid var(--line); border-radius: 10px; background: var(--surface); padding: 18px 18px 8px; }
+  .chart-card h3{ font-size: 14px; font-weight: 500; font-family: "IBM Plex Sans"; margin-bottom: 2px; }
+  .chart-card .sub{ font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+  .chart-card svg{ width: 100%; height: auto; display: block; overflow: visible; }
+  .bar{ fill: var(--accent); transition: opacity .12s; }
+  .bar:hover{ opacity: 0.75; }
+  .bar.warn{ fill: var(--accent-2); }
+  .barlabel{ font-family: "IBM Plex Mono", monospace; font-size: 10.5px; fill: var(--ink-2); }
+  .barlabel.on{ fill: var(--ink); font-weight: 500; }
+  .axislabel{ font-family: "IBM Plex Sans", sans-serif; font-size: 10.5px; fill: var(--muted); }
+  .gridline{ stroke: var(--line); stroke-width: 1; }
+  .legend{ display: flex; gap: 16px; flex-wrap: wrap; font-size: 11.5px; color: var(--ink-2); margin: 4px 0 10px; }
+  .legend span{ display: inline-flex; align-items: center; gap: 6px; }
+  .legend i{ width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
+
+  .phase-grid{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  @media (max-width: 720px){ .phase-grid{ grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 460px){ .phase-grid{ grid-template-columns: 1fr; } }
+  .phase{ border: 1px solid var(--line); border-radius: 10px; background: var(--surface); padding: 14px 15px; display: flex; flex-direction: column; gap: 9px; border-top: 2px solid var(--accent); }
+  .phase.done{ border-top-color: var(--good); }
+  .phase .num{ font-family: "IBM Plex Mono", monospace; font-size: 11px; color: var(--muted); }
+  .phase .status{ font-family: "IBM Plex Mono", monospace; font-size: 10px; letter-spacing: .04em; text-transform: uppercase; color: var(--good); }
+  .phase h3{ font-size: 13.5px; line-height: 1.25; }
+  .phase ul{ list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 5px; }
+  .phase li{ position: relative; padding-left: 12px; font-size: 11.5px; line-height: 1.4; color: var(--ink-2); }
+  .phase li::before{ content: "\2013"; position: absolute; left: 0; color: var(--muted); }
+
+  .note{ font-size: 12.5px; color: var(--muted); line-height: 1.55; margin-top: 10px; max-width: 65ch; }
+  .note b{ color: var(--ink-2); font-weight: 600; }
+</style>
+
+<div class="page">
+
+  <div class="masthead">
+    <h1>Cervical Cancer &ndash; Risk Factors</h1>
+    <div class="sub">UCI / Kaggle &middot; Fernandes, Cardoso &amp; Fernandes (2017) &middot; Hospital Universitario de Caracas</div>
+  </div>
+
+  <section>
+    <h2>Project workflow</h2>
+    <p class="lede">A single 858&times;36 table, small enough to run preprocessing through modeling end to end. Everything runs in Python only.</p>
+    <div class="phase-grid">
+      <div class="phase done">
+        <span class="num">01</span>
+        <span class="status">done</span>
+        <h3>Preprocessing (Python)</h3>
+        <ul>
+          <li>Upload dataset</li>
+          <li>Missing data</li>
+          <li>Data types</li>
+          <li>Duplicates</li>
+          <li>Distributions &amp; outliers</li>
+          <li>Describe dataset</li>
+          <li>Drop / fill unusable data</li>
+        </ul>
+      </div>
+      <div class="phase">
+        <span class="num">02</span>
+        <h3>Target &amp; imbalance</h3>
+        <ul>
+          <li>Pick target (Biopsy)</li>
+          <li>Class imbalance</li>
+          <li>SMOTE (train set only)</li>
+        </ul>
+      </div>
+      <div class="phase">
+        <span class="num">03</span>
+        <h3>Feature selection (Python)</h3>
+        <ul>
+          <li>Variance test</li>
+          <li>Correlation</li>
+          <li>Mutual information</li>
+          <li>Wrapper methods</li>
+          <li>Collinearity check</li>
+          <li>FDR correction</li>
+        </ul>
+      </div>
+      <div class="phase">
+        <span class="num">04</span>
+        <h3>Modeling (Python)</h3>
+        <ul>
+          <li>LogReg / RF / XGBoost / SVM</li>
+          <li>5&times;5 stratified CV</li>
+          <li>AUC, F1, PR-AUC, MCC</li>
+          <li>SHAP values</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Raw data</h2>
+    <p class="lede">One flat table, no merge needed. Missing values are coded as the literal string <code>"?"</code> in the source file.</p>
+    <div class="tiles">
+      <div class="tile"><div class="value tnum">858</div><div class="label">patients</div></div>
+      <div class="tile"><div class="value tnum">36</div><div class="label">variables</div></div>
+      <div class="tile"><div class="value tnum">11.7%</div><div class="label">missing cells overall</div></div>
+      <div class="tile"><div class="value tnum">23</div><div class="label">exact duplicate rows</div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Missing data, by block</h2>
+    <p class="lede">Grouped by question block rather than shown column-by-column &mdash; most columns inside a block share the same missing rate, since they were skipped for the same reason (follow-up question, not applicable).</p>
+    <div class="chart-card">
+      <h3>% missing by block</h3>
+      <div class="sub">26 of 36 columns have at least one missing value</div>
+      <svg id="chart-missing" viewBox="0 0 760 300"></svg>
+    </div>
+  </section>
+
+  <section>
+    <h2>Cleaning decisions</h2>
+    <p class="lede">Every action taken between the raw file and the modeling-ready table, and why.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Target</th><th>Action</th><th>Reason</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="name">STDs:cervical condylomatosis, STDs:AIDS</td><td><span class="pill drop">dropped</span></td><td>Constant at 0 across all 858 rows &mdash; zero variance, zero information</td></tr>
+          <tr><td class="name">STDs: Time since first/last diagnosis</td><td><span class="pill drop">dropped</span></td><td>91.7% missing, only 71 usable values &mdash; too sparse to keep as-is</td></tr>
+          <tr><td class="name">Smokes*, Hormonal Contraceptives*, IUD*, STDs* (19 cols)</td><td><span class="pill fill">filled with 0</span></td><td>Missing means "question not applicable," not "unknown" &mdash; standard assumption for this dataset</td></tr>
+          <tr><td class="name">Number of sexual partners, First sexual intercourse, Num of pregnancies</td><td><span class="pill fill">filled with median</span></td><td>Genuinely unknown/declined answers, not a skip pattern</td></tr>
+          <tr><td class="name">23 duplicate rows</td><td><span class="pill drop">dropped</span></td><td>Exact matches on every answered question, checked before the fills above &mdash; see next section</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Duplicate rows</h2>
+    <p class="lede">23 rows are exact matches on every answered question. Dropped: an identical row can land in the training fold under one occurrence and the test fold under the other, which leaks directly into the evaluation metrics.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Screening test</th><th class="num">Positives, raw</th><th class="num">Positives, final</th><th class="num">Lost to dedup</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="name">Hinselmann</td><td class="num">35</td><td class="num">35</td><td class="num delta-flat">0</td></tr>
+          <tr><td class="name">Schiller</td><td class="num">74</td><td class="num">73</td><td class="num delta-down">&minus;1</td></tr>
+          <tr><td class="name">Citology</td><td class="num">44</td><td class="num">43</td><td class="num delta-down">&minus;1</td></tr>
+          <tr><td class="name">Biopsy</td><td class="num">55</td><td class="num">54</td><td class="num delta-down">&minus;1</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Final dataset</h2>
+    <div class="tiles">
+      <div class="tile"><div class="value tnum">835</div><div class="label">patients</div></div>
+      <div class="tile"><div class="value tnum">32</div><div class="label">variables</div></div>
+      <div class="tile"><div class="value tnum">0%</div><div class="label">missing cells</div></div>
+      <div class="tile"><div class="value tnum">23</div><div class="label">confirmed duplicates removed</div></div>
+    </div>
+    <p class="note"><b>Biopsy</b> (6.5% positive) is the likely primary target. It's the histological test &mdash; a tissue sample read under a microscope &mdash; while Hinselmann, Schiller and Citology are the screening tests that a biopsy confirms or rules out. <code>Dx:Cancer</code> was considered and set aside: it's a self-reported prior diagnosis from the intake questionnaire, not an outcome of this screening visit, and at 18 positives (2.1%) it's even sparser than Biopsy. All four sit well under 10% positive: class imbalance needs handling (stratified split, SMOTE on the training fold only) before modeling.</p>
+  </section>
+
+  <section>
+    <h2>Outliers worth a second look</h2>
+    <p class="lede">IQR method (<code>1.5&times;IQR</code> beyond Q1/Q3), continuous columns only, computed on the typed raw data (before the column drops above). Read with a caveat: most of this dataset's "continuous" variables are zero-inflated (0 for the majority, a real tail for the minority who smoke / used an IUD / had an STD), so a high outlier rate here usually marks a genuine subgroup, not bad data.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Column</th><th class="num">% flagged</th><th>Likely reason</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="name">Smokes (years / packs-year)</td><td class="num">14.6%</td><td>~85% never smoked &mdash; smokers read as outliers against that baseline</td></tr>
+          <tr><td class="name">IUD (years)</td><td class="num">11.2%</td><td>Same pattern, IUD users are the minority</td></tr>
+          <tr><td class="name">Hormonal Contraceptives (years)</td><td class="num">9.1%</td><td>Same pattern, HC users are the minority</td></tr>
+          <tr><td class="name">Number of sexual partners</td><td class="num">8.2%</td><td>Right-skewed count, plausible genuine tail</td></tr>
+          <tr><td class="name">Num of pregnancies</td><td class="num">1.2%</td><td>Looks like real tail values, not an artifact</td></tr>
+          <tr><td class="name">Age</td><td class="num">0.9%</td><td>Looks like real tail values, not an artifact</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  var missingBlocks = [
+    { label:"STDs: time since diag.", value:91.72, warn:true },
+    { label:"IUD",                    value:13.64 },
+    { label:"Hormonal Contraceptives",value:12.59 },
+    { label:"STDs (14 columns)",      value:12.24 },
+    { label:"Num of pregnancies",     value:6.53 },
+    { label:"Sexual partners",        value:3.03 },
+    { label:"Smokes",                 value:1.52 },
+    { label:"First intercourse",      value:0.82 }
+  ];
+
+  function niceMax(v){
+    var mag = Math.pow(10, Math.floor(Math.log10(v)));
+    var n = v / mag;
+    var step = n <= 1 ? 1 : n <= 2 ? 2 : n <= 5 ? 5 : 10;
+    return step * mag;
+  }
+
+  function roundedTop(x, y, w, h, r){
+    r = Math.min(r, w/2, h);
+    return "M" + x + "," + (y+r) +
+      " Q" + x + "," + y + " " + (x+r) + "," + y +
+      " L" + (x+w-r) + "," + y +
+      " Q" + (x+w) + "," + y + " " + (x+w) + "," + (y+r) +
+      " L" + (x+w) + "," + (y+h) +
+      " L" + x + "," + (y+h) + " Z";
+  }
+
+  function barChart(svgId, data, opts){
+    var svg = document.getElementById(svgId);
+    var W = 760, H = 300;
+    var marginTop = 22, marginBottom = opts.rotate ? 68 : 34, marginLeft = 46, marginRight = 10;
+    var innerW = W - marginLeft - marginRight;
+    var innerH = H - marginTop - marginBottom;
+    var maxVal = niceMax(Math.max.apply(null, data.map(function(d){ return d.value; })) * 1.12);
+    var n = data.length;
+    var slot = innerW / n;
+    var barW = slot * 0.58;
+    var ticks = 4;
+
+    function y(v){ return marginTop + innerH * (1 - v / maxVal); }
+
+    var svgns = [];
+    for (var i = 0; i <= ticks; i++){
+      var v = (maxVal / ticks) * i;
+      var yy = y(v);
+      svgns.push('<line class="gridline" x1="' + marginLeft + '" x2="' + (W - marginRight) + '" y1="' + yy + '" y2="' + yy + '"/>');
+      svgns.push('<text class="axislabel" x="' + (marginLeft - 8) + '" y="' + (yy + 3) + '" text-anchor="end">' + opts.axisFmt(v) + '</text>');
+    }
+
+    data.forEach(function(d, i){
+      var x = marginLeft + slot * i + (slot - barW) / 2;
+      var barY = y(d.value);
+      var h = marginTop + innerH - barY;
+      var cls = "bar" + (d.warn ? " warn" : "");
+      svgns.push('<path class="' + cls + '" d="' + roundedTop(x, barY, barW, h, 4) + '"><title>' + d.label + " : " + opts.labelFmt(d.value) + '</title></path>');
+      svgns.push('<text class="barlabel' + (d.warn ? ' on' : '') + '" x="' + (x + barW/2) + '" y="' + (barY - 7) + '" text-anchor="middle">' + opts.labelFmt(d.value) + '</text>');
+
+      var lx = x + barW/2, ly = marginTop + innerH + 16;
+      if (opts.rotate){
+        svgns.push('<text class="axislabel" x="' + lx + '" y="' + ly + '" text-anchor="end" transform="rotate(-38 ' + lx + ' ' + ly + ')">' + d.label + '</text>');
+      } else {
+        svgns.push('<text class="axislabel" x="' + lx + '" y="' + ly + '" text-anchor="middle">' + d.label + '</text>');
+      }
+    });
+
+    svg.innerHTML = svgns.join("");
+  }
+
+  barChart("chart-missing", missingBlocks,
+    { rotate: true, axisFmt: function(v){ return Math.round(v) + "%"; }, labelFmt: function(v){ return v.toFixed(1) + "%"; } }
+  );
+})();
+</script>

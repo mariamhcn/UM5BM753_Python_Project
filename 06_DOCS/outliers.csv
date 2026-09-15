@@ -1,0 +1,11 @@
+,n_outliers,n_non_na,pct_outliers
+Smokes (years),123,845,14.56
+Smokes (packs/year),123,845,14.56
+STDs: Time since last diagnosis,9,71,12.68
+IUD (years),83,741,11.2
+Hormonal Contraceptives (years),68,750,9.07
+STDs: Time since first diagnosis,6,71,8.45
+Number of sexual partners,68,832,8.17
+First sexual intercourse,41,851,4.82
+Num of pregnancies,10,802,1.25
+Age,8,858,0.93
