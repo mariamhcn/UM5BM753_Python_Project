@@ -1,6 +1,6 @@
 # Data
 
-This folder contains the data used for the NHANES supervised learning project.
+This folder contains the data used for the cervical cancer risk factors supervised learning project.
 
 ## Structure
 
@@ -9,11 +9,7 @@ This folder contains the data used for the NHANES supervised learning project.
 
 ## Dataset
 
-NHANES 1988–2018
-
-Source: Kaggle - nguyenvy/nhanes-19882018 ***mettre lien***
-
-The original dataset is not included in this repository because of its size.
+Source: Cervical Cancer (Risk Factors) - https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
 
 Download the dataset and place it in:
 
