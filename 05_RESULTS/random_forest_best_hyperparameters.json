@@ -1,0 +1,12 @@
+{
+  "risk_factors": {
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": 3
+  },
+  "selected_plus_diagnostics": {
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": 3
+  }
+}
