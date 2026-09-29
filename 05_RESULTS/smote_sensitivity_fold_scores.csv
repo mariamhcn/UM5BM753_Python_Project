@@ -1,0 +1,1401 @@
+Scenario,Algorithm,Strategy,Fold,Metric,Score
+Risk factors only,Logistic Regression,Class weighting,1,PR_AUC,0.07550210429593318
+Risk factors only,Logistic Regression,Class weighting,2,PR_AUC,0.13232065336164078
+Risk factors only,Logistic Regression,Class weighting,3,PR_AUC,0.14007583060297268
+Risk factors only,Logistic Regression,Class weighting,4,PR_AUC,0.1039957964898104
+Risk factors only,Logistic Regression,Class weighting,5,PR_AUC,0.11317540363946808
+Risk factors only,Logistic Regression,Class weighting,6,PR_AUC,0.08104000667691448
+Risk factors only,Logistic Regression,Class weighting,7,PR_AUC,0.0655683168584657
+Risk factors only,Logistic Regression,Class weighting,8,PR_AUC,0.08653707972888235
+Risk factors only,Logistic Regression,Class weighting,9,PR_AUC,0.14556586523498288
+Risk factors only,Logistic Regression,Class weighting,10,PR_AUC,0.10506082946053652
+Risk factors only,Logistic Regression,Class weighting,11,PR_AUC,0.07770672082340639
+Risk factors only,Logistic Regression,Class weighting,12,PR_AUC,0.12622681138306138
+Risk factors only,Logistic Regression,Class weighting,13,PR_AUC,0.1485862930771336
+Risk factors only,Logistic Regression,Class weighting,14,PR_AUC,0.1356202082087038
+Risk factors only,Logistic Regression,Class weighting,15,PR_AUC,0.08509155806767506
+Risk factors only,Logistic Regression,Class weighting,16,PR_AUC,0.14489272801701192
+Risk factors only,Logistic Regression,Class weighting,17,PR_AUC,0.09426061434110258
+Risk factors only,Logistic Regression,Class weighting,18,PR_AUC,0.09350708582384226
+Risk factors only,Logistic Regression,Class weighting,19,PR_AUC,0.13104884512333362
+Risk factors only,Logistic Regression,Class weighting,20,PR_AUC,0.1738314176245211
+Risk factors only,Logistic Regression,Class weighting,21,PR_AUC,0.09039866668993835
+Risk factors only,Logistic Regression,Class weighting,22,PR_AUC,0.16747319759769988
+Risk factors only,Logistic Regression,Class weighting,23,PR_AUC,0.18225303549713712
+Risk factors only,Logistic Regression,Class weighting,24,PR_AUC,0.10266258582342538
+Risk factors only,Logistic Regression,Class weighting,25,PR_AUC,0.21447201671601165
+Risk factors only,Logistic Regression,Class weighting,1,ROC_AUC,0.4961038961038961
+Risk factors only,Logistic Regression,Class weighting,2,ROC_AUC,0.5688073394495412
+Risk factors only,Logistic Regression,Class weighting,3,ROC_AUC,0.673165137614679
+Risk factors only,Logistic Regression,Class weighting,4,ROC_AUC,0.4403669724770642
+Risk factors only,Logistic Regression,Class weighting,5,ROC_AUC,0.5661861074705111
+Risk factors only,Logistic Regression,Class weighting,6,ROC_AUC,0.5136363636363637
+Risk factors only,Logistic Regression,Class weighting,7,ROC_AUC,0.40366972477064217
+Risk factors only,Logistic Regression,Class weighting,8,ROC_AUC,0.481651376146789
+Risk factors only,Logistic Regression,Class weighting,9,ROC_AUC,0.6169724770642202
+Risk factors only,Logistic Regression,Class weighting,10,ROC_AUC,0.6120576671035386
+Risk factors only,Logistic Regression,Class weighting,11,ROC_AUC,0.5668831168831169
+Risk factors only,Logistic Regression,Class weighting,12,ROC_AUC,0.6163990825688073
+Risk factors only,Logistic Regression,Class weighting,13,ROC_AUC,0.7075688073394496
+Risk factors only,Logistic Regression,Class weighting,14,ROC_AUC,0.5825688073394496
+Risk factors only,Logistic Regression,Class weighting,15,ROC_AUC,0.39842726081258184
+Risk factors only,Logistic Regression,Class weighting,16,ROC_AUC,0.6616883116883117
+Risk factors only,Logistic Regression,Class weighting,17,ROC_AUC,0.5458715596330275
+Risk factors only,Logistic Regression,Class weighting,18,ROC_AUC,0.4461009174311927
+Risk factors only,Logistic Regression,Class weighting,19,ROC_AUC,0.6364678899082569
+Risk factors only,Logistic Regression,Class weighting,20,ROC_AUC,0.7601572739187418
+Risk factors only,Logistic Regression,Class weighting,21,ROC_AUC,0.612987012987013
+Risk factors only,Logistic Regression,Class weighting,22,ROC_AUC,0.7006880733944955
+Risk factors only,Logistic Regression,Class weighting,23,ROC_AUC,0.7236238532110092
+Risk factors only,Logistic Regression,Class weighting,24,ROC_AUC,0.525229357798165
+Risk factors only,Logistic Regression,Class weighting,25,ROC_AUC,0.4521625163826998
+Risk factors only,Logistic Regression,Class weighting,1,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,Class weighting,2,Recall,0.25
+Risk factors only,Logistic Regression,Class weighting,3,Recall,0.5
+Risk factors only,Logistic Regression,Class weighting,4,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,5,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,Class weighting,6,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,Class weighting,7,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,8,Recall,0.125
+Risk factors only,Logistic Regression,Class weighting,9,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,10,Recall,0.14285714285714285
+Risk factors only,Logistic Regression,Class weighting,11,Recall,0.14285714285714285
+Risk factors only,Logistic Regression,Class weighting,12,Recall,0.5
+Risk factors only,Logistic Regression,Class weighting,13,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,14,Recall,0.5
+Risk factors only,Logistic Regression,Class weighting,15,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,Class weighting,16,Recall,0.5714285714285714
+Risk factors only,Logistic Regression,Class weighting,17,Recall,0.5
+Risk factors only,Logistic Regression,Class weighting,18,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,19,Recall,0.25
+Risk factors only,Logistic Regression,Class weighting,20,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,Class weighting,21,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,Class weighting,22,Recall,0.625
+Risk factors only,Logistic Regression,Class weighting,23,Recall,0.375
+Risk factors only,Logistic Regression,Class weighting,24,Recall,0.5
+Risk factors only,Logistic Regression,Class weighting,25,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,Class weighting,1,Precision,0.07692307692307693
+Risk factors only,Logistic Regression,Class weighting,2,Precision,0.1111111111111111
+Risk factors only,Logistic Regression,Class weighting,3,Precision,0.15384615384615385
+Risk factors only,Logistic Regression,Class weighting,4,Precision,0.10714285714285714
+Risk factors only,Logistic Regression,Class weighting,5,Precision,0.08571428571428572
+Risk factors only,Logistic Regression,Class weighting,6,Precision,0.04878048780487805
+Risk factors only,Logistic Regression,Class weighting,7,Precision,0.07317073170731707
+Risk factors only,Logistic Regression,Class weighting,8,Precision,0.041666666666666664
+Risk factors only,Logistic Regression,Class weighting,9,Precision,0.12
+Risk factors only,Logistic Regression,Class weighting,10,Precision,0.0625
+Risk factors only,Logistic Regression,Class weighting,11,Precision,0.041666666666666664
+Risk factors only,Logistic Regression,Class weighting,12,Precision,0.125
+Risk factors only,Logistic Regression,Class weighting,13,Precision,0.1111111111111111
+Risk factors only,Logistic Regression,Class weighting,14,Precision,0.0975609756097561
+Risk factors only,Logistic Regression,Class weighting,15,Precision,0.09375
+Risk factors only,Logistic Regression,Class weighting,16,Precision,0.11764705882352941
+Risk factors only,Logistic Regression,Class weighting,17,Precision,0.09302325581395349
+Risk factors only,Logistic Regression,Class weighting,18,Precision,0.07894736842105263
+Risk factors only,Logistic Regression,Class weighting,19,Precision,0.08
+Risk factors only,Logistic Regression,Class weighting,20,Precision,0.1111111111111111
+Risk factors only,Logistic Regression,Class weighting,21,Precision,0.08333333333333333
+Risk factors only,Logistic Regression,Class weighting,22,Precision,0.1388888888888889
+Risk factors only,Logistic Regression,Class weighting,23,Precision,0.16666666666666666
+Risk factors only,Logistic Regression,Class weighting,24,Precision,0.10256410256410256
+Risk factors only,Logistic Regression,Class weighting,25,Precision,0.05405405405405406
+Risk factors only,Logistic Regression,Class weighting,1,F1,0.13043478260869565
+Risk factors only,Logistic Regression,Class weighting,2,F1,0.15384615384615385
+Risk factors only,Logistic Regression,Class weighting,3,F1,0.23529411764705882
+Risk factors only,Logistic Regression,Class weighting,4,F1,0.16666666666666666
+Risk factors only,Logistic Regression,Class weighting,5,F1,0.14285714285714285
+Risk factors only,Logistic Regression,Class weighting,6,F1,0.08333333333333333
+Risk factors only,Logistic Regression,Class weighting,7,F1,0.12244897959183673
+Risk factors only,Logistic Regression,Class weighting,8,F1,0.0625
+Risk factors only,Logistic Regression,Class weighting,9,F1,0.18181818181818182
+Risk factors only,Logistic Regression,Class weighting,10,F1,0.08695652173913043
+Risk factors only,Logistic Regression,Class weighting,11,F1,0.06451612903225806
+Risk factors only,Logistic Regression,Class weighting,12,F1,0.2
+Risk factors only,Logistic Regression,Class weighting,13,F1,0.17142857142857143
+Risk factors only,Logistic Regression,Class weighting,14,F1,0.16326530612244897
+Risk factors only,Logistic Regression,Class weighting,15,F1,0.15384615384615385
+Risk factors only,Logistic Regression,Class weighting,16,F1,0.1951219512195122
+Risk factors only,Logistic Regression,Class weighting,17,F1,0.1568627450980392
+Risk factors only,Logistic Regression,Class weighting,18,F1,0.13043478260869565
+Risk factors only,Logistic Regression,Class weighting,19,F1,0.12121212121212122
+Risk factors only,Logistic Regression,Class weighting,20,F1,0.17647058823529413
+Risk factors only,Logistic Regression,Class weighting,21,F1,0.12903225806451613
+Risk factors only,Logistic Regression,Class weighting,22,F1,0.22727272727272727
+Risk factors only,Logistic Regression,Class weighting,23,F1,0.23076923076923078
+Risk factors only,Logistic Regression,Class weighting,24,F1,0.1702127659574468
+Risk factors only,Logistic Regression,Class weighting,25,F1,0.09090909090909091
+Risk factors only,Logistic Regression,Class weighting,1,Balanced_accuracy,0.5506493506493506
+Risk factors only,Logistic Regression,Class weighting,2,Balanced_accuracy,0.551605504587156
+Risk factors only,Logistic Regression,Class weighting,3,Balanced_accuracy,0.6490825688073394
+Risk factors only,Logistic Regression,Class weighting,4,Balanced_accuracy,0.5728211009174312
+Risk factors only,Logistic Regression,Class weighting,5,Balanced_accuracy,0.5674967234600262
+Risk factors only,Logistic Regression,Class weighting,6,Balanced_accuracy,0.4655844155844156
+Risk factors only,Logistic Regression,Class weighting,7,Balanced_accuracy,0.5131880733944953
+Risk factors only,Logistic Regression,Class weighting,8,Balanced_accuracy,0.4569954128440367
+Risk factors only,Logistic Regression,Class weighting,9,Balanced_accuracy,0.5865825688073394
+Risk factors only,Logistic Regression,Class weighting,10,Balanced_accuracy,0.5026212319790302
+Risk factors only,Logistic Regression,Class weighting,11,Balanced_accuracy,0.4668831168831169
+Risk factors only,Logistic Regression,Class weighting,12,Balanced_accuracy,0.6215596330275229
+Risk factors only,Logistic Regression,Class weighting,13,Balanced_accuracy,0.5774082568807339
+Risk factors only,Logistic Regression,Class weighting,14,Balanced_accuracy,0.5802752293577982
+Risk factors only,Logistic Regression,Class weighting,15,Balanced_accuracy,0.5812581913499345
+Risk factors only,Logistic Regression,Class weighting,16,Balanced_accuracy,0.6493506493506493
+Risk factors only,Logistic Regression,Class weighting,17,Balanced_accuracy,0.5711009174311927
+Risk factors only,Logistic Regression,Class weighting,18,Balanced_accuracy,0.5269495412844036
+Risk factors only,Logistic Regression,Class weighting,19,Balanced_accuracy,0.5194954128440368
+Risk factors only,Logistic Regression,Class weighting,20,Balanced_accuracy,0.6041939711664482
+Risk factors only,Logistic Regression,Class weighting,21,Balanced_accuracy,0.5428571428571429
+Risk factors only,Logistic Regression,Class weighting,22,Balanced_accuracy,0.6702981651376148
+Risk factors only,Logistic Regression,Class weighting,23,Balanced_accuracy,0.6186926605504588
+Risk factors only,Logistic Regression,Class weighting,24,Balanced_accuracy,0.5894495412844036
+Risk factors only,Logistic Regression,Class weighting,25,Balanced_accuracy,0.48230668414154654
+Risk factors only,Logistic Regression,Class weighting,1,MCC,0.050964719143762556
+Risk factors only,Logistic Regression,Class weighting,2,MCC,0.07219887278223847
+Risk factors only,Logistic Regression,Class weighting,3,MCC,0.18101215356399913
+Risk factors only,Logistic Regression,Class weighting,4,MCC,0.0861532091953976
+Risk factors only,Logistic Regression,Class weighting,5,MCC,0.07003230555308936
+Risk factors only,Logistic Regression,Class weighting,6,MCC,-0.034216200529972644
+Risk factors only,Logistic Regression,Class weighting,7,MCC,0.013953105213710477
+Risk factors only,Logistic Regression,Class weighting,8,MCC,-0.05375958726447773
+Risk factors only,Logistic Regression,Class weighting,9,MCC,0.10662395476793668
+Risk factors only,Logistic Regression,Class weighting,10,MCC,0.0036202430712799828
+Risk factors only,Logistic Regression,Class weighting,11,MCC,-0.038902518541732226
+Risk factors only,Logistic Regression,Class weighting,12,MCC,0.13765537264849573
+Risk factors only,Logistic Regression,Class weighting,13,MCC,0.09274113128053087
+Risk factors only,Logistic Regression,Class weighting,14,MCC,0.08493194477910726
+Risk factors only,Logistic Regression,Class weighting,15,MCC,0.08658542320421081
+Risk factors only,Logistic Regression,Class weighting,16,MCC,0.15602851270135482
+Risk factors only,Logistic Regression,Class weighting,17,MCC,0.07444119822638667
+Risk factors only,Logistic Regression,Class weighting,18,MCC,0.029049206345758156
+Risk factors only,Logistic Regression,Class weighting,19,MCC,0.024008042795429452
+Risk factors only,Logistic Regression,Class weighting,20,MCC,0.11742429730493363
+Risk factors only,Logistic Regression,Class weighting,21,MCC,0.05034443575988876
+Risk factors only,Logistic Regression,Class weighting,22,MCC,0.186253501906614
+Risk factors only,Logistic Regression,Class weighting,23,MCC,0.16605740739914848
+Risk factors only,Logistic Regression,Class weighting,24,MCC,0.09578262852211514
+Risk factors only,Logistic Regression,Class weighting,25,MCC,-0.018079527970350426
+Risk factors only,Logistic Regression,SMOTE,1,PR_AUC,0.06621311978454836
+Risk factors only,Logistic Regression,SMOTE,2,PR_AUC,0.2081356177859431
+Risk factors only,Logistic Regression,SMOTE,3,PR_AUC,0.10071305400252768
+Risk factors only,Logistic Regression,SMOTE,4,PR_AUC,0.10483630489796
+Risk factors only,Logistic Regression,SMOTE,5,PR_AUC,0.115417763023554
+Risk factors only,Logistic Regression,SMOTE,6,PR_AUC,0.08063939316975412
+Risk factors only,Logistic Regression,SMOTE,7,PR_AUC,0.05316856324784568
+Risk factors only,Logistic Regression,SMOTE,8,PR_AUC,0.0938419714246806
+Risk factors only,Logistic Regression,SMOTE,9,PR_AUC,0.1480583341590046
+Risk factors only,Logistic Regression,SMOTE,10,PR_AUC,0.06631897652141083
+Risk factors only,Logistic Regression,SMOTE,11,PR_AUC,0.08057840438228077
+Risk factors only,Logistic Regression,SMOTE,12,PR_AUC,0.1316091809673799
+Risk factors only,Logistic Regression,SMOTE,13,PR_AUC,0.10749603494984027
+Risk factors only,Logistic Regression,SMOTE,14,PR_AUC,0.075688548239624
+Risk factors only,Logistic Regression,SMOTE,15,PR_AUC,0.08333120561133457
+Risk factors only,Logistic Regression,SMOTE,16,PR_AUC,0.13267050929673346
+Risk factors only,Logistic Regression,SMOTE,17,PR_AUC,0.09046401839112728
+Risk factors only,Logistic Regression,SMOTE,18,PR_AUC,0.07022964702496383
+Risk factors only,Logistic Regression,SMOTE,19,PR_AUC,0.1195876427513958
+Risk factors only,Logistic Regression,SMOTE,20,PR_AUC,0.16844763517459713
+Risk factors only,Logistic Regression,SMOTE,21,PR_AUC,0.09365847510780971
+Risk factors only,Logistic Regression,SMOTE,22,PR_AUC,0.12427697328487576
+Risk factors only,Logistic Regression,SMOTE,23,PR_AUC,0.11011888056675467
+Risk factors only,Logistic Regression,SMOTE,24,PR_AUC,0.07849208223522884
+Risk factors only,Logistic Regression,SMOTE,25,PR_AUC,0.08200697005607765
+Risk factors only,Logistic Regression,SMOTE,1,ROC_AUC,0.4402597402597402
+Risk factors only,Logistic Regression,SMOTE,2,ROC_AUC,0.5309633027522936
+Risk factors only,Logistic Regression,SMOTE,3,ROC_AUC,0.6341743119266054
+Risk factors only,Logistic Regression,SMOTE,4,ROC_AUC,0.4461009174311927
+Risk factors only,Logistic Regression,SMOTE,5,ROC_AUC,0.5910878112712975
+Risk factors only,Logistic Regression,SMOTE,6,ROC_AUC,0.4954545454545454
+Risk factors only,Logistic Regression,SMOTE,7,ROC_AUC,0.3107798165137614
+Risk factors only,Logistic Regression,SMOTE,8,ROC_AUC,0.49082568807339455
+Risk factors only,Logistic Regression,SMOTE,9,ROC_AUC,0.5745412844036698
+Risk factors only,Logistic Regression,SMOTE,10,ROC_AUC,0.38663171690694625
+Risk factors only,Logistic Regression,SMOTE,11,ROC_AUC,0.5876623376623377
+Risk factors only,Logistic Regression,SMOTE,12,ROC_AUC,0.6416284403669725
+Risk factors only,Logistic Regression,SMOTE,13,ROC_AUC,0.6169724770642202
+Risk factors only,Logistic Regression,SMOTE,14,ROC_AUC,0.46444954128440363
+Risk factors only,Logistic Regression,SMOTE,15,ROC_AUC,0.38401048492791606
+Risk factors only,Logistic Regression,SMOTE,16,ROC_AUC,0.6558441558441558
+Risk factors only,Logistic Regression,SMOTE,17,ROC_AUC,0.5470183486238531
+Risk factors only,Logistic Regression,SMOTE,18,ROC_AUC,0.3440366972477064
+Risk factors only,Logistic Regression,SMOTE,19,ROC_AUC,0.5928899082568807
+Risk factors only,Logistic Regression,SMOTE,20,ROC_AUC,0.7169069462647444
+Risk factors only,Logistic Regression,SMOTE,21,ROC_AUC,0.6480519480519481
+Risk factors only,Logistic Regression,SMOTE,22,ROC_AUC,0.6192660550458715
+Risk factors only,Logistic Regression,SMOTE,23,ROC_AUC,0.588302752293578
+Risk factors only,Logistic Regression,SMOTE,24,ROC_AUC,0.46903669724770647
+Risk factors only,Logistic Regression,SMOTE,25,ROC_AUC,0.39973787680209694
+Risk factors only,Logistic Regression,SMOTE,1,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,SMOTE,2,Recall,0.375
+Risk factors only,Logistic Regression,SMOTE,3,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,4,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,5,Recall,0.5714285714285714
+Risk factors only,Logistic Regression,SMOTE,6,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,SMOTE,7,Recall,0.125
+Risk factors only,Logistic Regression,SMOTE,8,Recall,0.125
+Risk factors only,Logistic Regression,SMOTE,9,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,10,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,SMOTE,11,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,SMOTE,12,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,13,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,14,Recall,0.375
+Risk factors only,Logistic Regression,SMOTE,15,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,SMOTE,16,Recall,0.5714285714285714
+Risk factors only,Logistic Regression,SMOTE,17,Recall,0.625
+Risk factors only,Logistic Regression,SMOTE,18,Recall,0.125
+Risk factors only,Logistic Regression,SMOTE,19,Recall,0.25
+Risk factors only,Logistic Regression,SMOTE,20,Recall,0.5714285714285714
+Risk factors only,Logistic Regression,SMOTE,21,Recall,0.42857142857142855
+Risk factors only,Logistic Regression,SMOTE,22,Recall,0.625
+Risk factors only,Logistic Regression,SMOTE,23,Recall,0.125
+Risk factors only,Logistic Regression,SMOTE,24,Recall,0.5
+Risk factors only,Logistic Regression,SMOTE,25,Recall,0.2857142857142857
+Risk factors only,Logistic Regression,SMOTE,1,Precision,0.047619047619047616
+Risk factors only,Logistic Regression,SMOTE,2,Precision,0.06976744186046512
+Risk factors only,Logistic Regression,SMOTE,3,Precision,0.10526315789473684
+Risk factors only,Logistic Regression,SMOTE,4,Precision,0.09302325581395349
+Risk factors only,Logistic Regression,SMOTE,5,Precision,0.0975609756097561
+Risk factors only,Logistic Regression,SMOTE,6,Precision,0.045454545454545456
+Risk factors only,Logistic Regression,SMOTE,7,Precision,0.02
+Risk factors only,Logistic Regression,SMOTE,8,Precision,0.034482758620689655
+Risk factors only,Logistic Regression,SMOTE,9,Precision,0.09523809523809523
+Risk factors only,Logistic Regression,SMOTE,10,Precision,0.0425531914893617
+Risk factors only,Logistic Regression,SMOTE,11,Precision,0.08571428571428572
+Risk factors only,Logistic Regression,SMOTE,12,Precision,0.0851063829787234
+Risk factors only,Logistic Regression,SMOTE,13,Precision,0.10256410256410256
+Risk factors only,Logistic Regression,SMOTE,14,Precision,0.06382978723404255
+Risk factors only,Logistic Regression,SMOTE,15,Precision,0.06818181818181818
+Risk factors only,Logistic Regression,SMOTE,16,Precision,0.0784313725490196
+Risk factors only,Logistic Regression,SMOTE,17,Precision,0.1111111111111111
+Risk factors only,Logistic Regression,SMOTE,18,Precision,0.021739130434782608
+Risk factors only,Logistic Regression,SMOTE,19,Precision,0.05263157894736842
+Risk factors only,Logistic Regression,SMOTE,20,Precision,0.08888888888888889
+Risk factors only,Logistic Regression,SMOTE,21,Precision,0.09375
+Risk factors only,Logistic Regression,SMOTE,22,Precision,0.0847457627118644
+Risk factors only,Logistic Regression,SMOTE,23,Precision,0.047619047619047616
+Risk factors only,Logistic Regression,SMOTE,24,Precision,0.08
+Risk factors only,Logistic Regression,SMOTE,25,Precision,0.044444444444444446
+Risk factors only,Logistic Regression,SMOTE,1,F1,0.08571428571428572
+Risk factors only,Logistic Regression,SMOTE,2,F1,0.11764705882352941
+Risk factors only,Logistic Regression,SMOTE,3,F1,0.17391304347826086
+Risk factors only,Logistic Regression,SMOTE,4,F1,0.1568627450980392
+Risk factors only,Logistic Regression,SMOTE,5,F1,0.16666666666666666
+Risk factors only,Logistic Regression,SMOTE,6,F1,0.0784313725490196
+Risk factors only,Logistic Regression,SMOTE,7,F1,0.034482758620689655
+Risk factors only,Logistic Regression,SMOTE,8,F1,0.05405405405405406
+Risk factors only,Logistic Regression,SMOTE,9,F1,0.16
+Risk factors only,Logistic Regression,SMOTE,10,F1,0.07407407407407407
+Risk factors only,Logistic Regression,SMOTE,11,F1,0.14285714285714285
+Risk factors only,Logistic Regression,SMOTE,12,F1,0.14545454545454545
+Risk factors only,Logistic Regression,SMOTE,13,F1,0.1702127659574468
+Risk factors only,Logistic Regression,SMOTE,14,F1,0.10909090909090909
+Risk factors only,Logistic Regression,SMOTE,15,F1,0.11764705882352941
+Risk factors only,Logistic Regression,SMOTE,16,F1,0.13793103448275862
+Risk factors only,Logistic Regression,SMOTE,17,F1,0.18867924528301888
+Risk factors only,Logistic Regression,SMOTE,18,F1,0.037037037037037035
+Risk factors only,Logistic Regression,SMOTE,19,F1,0.08695652173913043
+Risk factors only,Logistic Regression,SMOTE,20,F1,0.15384615384615385
+Risk factors only,Logistic Regression,SMOTE,21,F1,0.15384615384615385
+Risk factors only,Logistic Regression,SMOTE,22,F1,0.14925373134328357
+Risk factors only,Logistic Regression,SMOTE,23,F1,0.06896551724137931
+Risk factors only,Logistic Regression,SMOTE,24,F1,0.13793103448275862
+Risk factors only,Logistic Regression,SMOTE,25,F1,0.07692307692307693
+Risk factors only,Logistic Regression,SMOTE,1,Balanced_accuracy,0.44155844155844154
+Risk factors only,Logistic Regression,SMOTE,2,Balanced_accuracy,0.5040137614678899
+Risk factors only,Logistic Regression,SMOTE,3,Balanced_accuracy,0.5940366972477065
+Risk factors only,Logistic Regression,SMOTE,4,Balanced_accuracy,0.5711009174311927
+Risk factors only,Logistic Regression,SMOTE,5,Balanced_accuracy,0.6159895150720839
+Risk factors only,Logistic Regression,SMOTE,6,Balanced_accuracy,0.45194805194805193
+Risk factors only,Logistic Regression,SMOTE,7,Balanced_accuracy,0.33772935779816515
+Risk factors only,Logistic Regression,SMOTE,8,Balanced_accuracy,0.43405963302752293
+Risk factors only,Logistic Regression,SMOTE,9,Balanced_accuracy,0.5756880733944953
+Risk factors only,Logistic Regression,SMOTE,10,Balanced_accuracy,0.436435124508519
+Risk factors only,Logistic Regression,SMOTE,11,Balanced_accuracy,0.5688311688311688
+Risk factors only,Logistic Regression,SMOTE,12,Balanced_accuracy,0.5527522935779816
+Risk factors only,Logistic Regression,SMOTE,13,Balanced_accuracy,0.5894495412844036
+Risk factors only,Logistic Regression,SMOTE,14,Balanced_accuracy,0.4856651376146789
+Risk factors only,Logistic Regression,SMOTE,15,Balanced_accuracy,0.5262123197903015
+Risk factors only,Logistic Regression,SMOTE,16,Balanced_accuracy,0.5720779220779221
+Risk factors only,Logistic Regression,SMOTE,17,Balanced_accuracy,0.6290137614678899
+Risk factors only,Logistic Regression,SMOTE,18,Balanced_accuracy,0.35607798165137616
+Risk factors only,Logistic Regression,SMOTE,19,Balanced_accuracy,0.4598623853211009
+Risk factors only,Logistic Regression,SMOTE,20,Balanced_accuracy,0.5976408912188729
+Risk factors only,Logistic Regression,SMOTE,21,Balanced_accuracy,0.5824675324675325
+Risk factors only,Logistic Regression,SMOTE,22,Balanced_accuracy,0.5647935779816513
+Risk factors only,Logistic Regression,SMOTE,23,Balanced_accuracy,0.47075688073394495
+Risk factors only,Logistic Regression,SMOTE,24,Balanced_accuracy,0.5389908256880733
+Risk factors only,Logistic Regression,SMOTE,25,Balanced_accuracy,0.4456094364351245
+Risk factors only,Logistic Regression,SMOTE,1,MCC,-0.05560706744010878
+Risk factors only,Logistic Regression,SMOTE,2,MCC,0.00420232570632828
+Risk factors only,Logistic Regression,SMOTE,3,MCC,0.10136318810009229
+Risk factors only,Logistic Regression,SMOTE,4,MCC,0.07444119822638667
+Risk factors only,Logistic Regression,SMOTE,5,MCC,0.1155549189610867
+Risk factors only,Logistic Regression,SMOTE,6,MCC,-0.04705422110119026
+Risk factors only,Logistic Regression,SMOTE,7,MCC,-0.16557920365329476
+Risk factors only,Logistic Regression,SMOTE,8,MCC,-0.07709021605947339
+Risk factors only,Logistic Regression,SMOTE,9,MCC,0.07964534756815962
+Risk factors only,Logistic Regression,SMOTE,10,MCC,-0.061664610258185856
+Risk factors only,Logistic Regression,SMOTE,11,MCC,0.07130492941555597
+Risk factors only,Logistic Regression,SMOTE,12,MCC,0.05431648229348237
+Risk factors only,Logistic Regression,SMOTE,13,MCC,0.09578262852211514
+Risk factors only,Logistic Regression,SMOTE,14,MCC,-0.014759913666707165
+Risk factors only,Logistic Regression,SMOTE,15,MCC,0.02572794720594425
+Risk factors only,Logistic Regression,SMOTE,16,MCC,0.06894782336945261
+Risk factors only,Logistic Regression,SMOTE,17,MCC,0.1338602927744123
+Risk factors only,Logistic Regression,SMOTE,18,MCC,-0.1487330174335734
+Risk factors only,Logistic Regression,SMOTE,19,MCC,-0.04326477540857598
+Risk factors only,Logistic Regression,SMOTE,20,MCC,0.09543080079947043
+Risk factors only,Logistic Regression,SMOTE,21,MCC,0.08775541136061665
+Risk factors only,Logistic Regression,SMOTE,22,MCC,0.06541542968318002
+Risk factors only,Logistic Regression,SMOTE,23,MCC,-0.03846508263234981
+Risk factors only,Logistic Regression,SMOTE,24,MCC,0.03978581571881288
+Risk factors only,Logistic Regression,SMOTE,25,MCC,-0.053159439371517084
+Risk factors only,Random Forest,Class weighting,1,PR_AUC,0.21243976246445478
+Risk factors only,Random Forest,Class weighting,2,PR_AUC,0.141202457384942
+Risk factors only,Random Forest,Class weighting,3,PR_AUC,0.14084721890428412
+Risk factors only,Random Forest,Class weighting,4,PR_AUC,0.10294025157082938
+Risk factors only,Random Forest,Class weighting,5,PR_AUC,0.11533706041400227
+Risk factors only,Random Forest,Class weighting,6,PR_AUC,0.1423355629877369
+Risk factors only,Random Forest,Class weighting,7,PR_AUC,0.08481271228873484
+Risk factors only,Random Forest,Class weighting,8,PR_AUC,0.07562451854888794
+Risk factors only,Random Forest,Class weighting,9,PR_AUC,0.17656479484311535
+Risk factors only,Random Forest,Class weighting,10,PR_AUC,0.10174008997538408
+Risk factors only,Random Forest,Class weighting,11,PR_AUC,0.0679159760042113
+Risk factors only,Random Forest,Class weighting,12,PR_AUC,0.13713072639099597
+Risk factors only,Random Forest,Class weighting,13,PR_AUC,0.24809927711510232
+Risk factors only,Random Forest,Class weighting,14,PR_AUC,0.16954895949461168
+Risk factors only,Random Forest,Class weighting,15,PR_AUC,0.2271956088677616
+Risk factors only,Random Forest,Class weighting,16,PR_AUC,0.08030624919736415
+Risk factors only,Random Forest,Class weighting,17,PR_AUC,0.14604335263518298
+Risk factors only,Random Forest,Class weighting,18,PR_AUC,0.16365028555637434
+Risk factors only,Random Forest,Class weighting,19,PR_AUC,0.16099881252371756
+Risk factors only,Random Forest,Class weighting,20,PR_AUC,0.15875575298411854
+Risk factors only,Random Forest,Class weighting,21,PR_AUC,0.06593576945871261
+Risk factors only,Random Forest,Class weighting,22,PR_AUC,0.17051069975476707
+Risk factors only,Random Forest,Class weighting,23,PR_AUC,0.11378402544692803
+Risk factors only,Random Forest,Class weighting,24,PR_AUC,0.15673188347212116
+Risk factors only,Random Forest,Class weighting,25,PR_AUC,0.0954962402056496
+Risk factors only,Random Forest,Class weighting,1,ROC_AUC,0.5974025974025974
+Risk factors only,Random Forest,Class weighting,2,ROC_AUC,0.5498853211009174
+Risk factors only,Random Forest,Class weighting,3,ROC_AUC,0.7115825688073395
+Risk factors only,Random Forest,Class weighting,4,ROC_AUC,0.6427752293577982
+Risk factors only,Random Forest,Class weighting,5,ROC_AUC,0.6349934469200524
+Risk factors only,Random Forest,Class weighting,6,ROC_AUC,0.587012987012987
+Risk factors only,Random Forest,Class weighting,7,ROC_AUC,0.5418577981651376
+Risk factors only,Random Forest,Class weighting,8,ROC_AUC,0.5074541284403669
+Risk factors only,Random Forest,Class weighting,9,ROC_AUC,0.6020642201834863
+Risk factors only,Random Forest,Class weighting,10,ROC_AUC,0.6480996068152032
+Risk factors only,Random Forest,Class weighting,11,ROC_AUC,0.46298701298701295
+Risk factors only,Random Forest,Class weighting,12,ROC_AUC,0.6479357798165137
+Risk factors only,Random Forest,Class weighting,13,ROC_AUC,0.7540137614678899
+Risk factors only,Random Forest,Class weighting,14,ROC_AUC,0.7981651376146789
+Risk factors only,Random Forest,Class weighting,15,ROC_AUC,0.690694626474443
+Risk factors only,Random Forest,Class weighting,16,ROC_AUC,0.5493506493506494
+Risk factors only,Random Forest,Class weighting,17,ROC_AUC,0.6903669724770642
+Risk factors only,Random Forest,Class weighting,18,ROC_AUC,0.6657110091743119
+Risk factors only,Random Forest,Class weighting,19,ROC_AUC,0.7035550458715596
+Risk factors only,Random Forest,Class weighting,20,ROC_AUC,0.6802096985583224
+Risk factors only,Random Forest,Class weighting,21,ROC_AUC,0.4993506493506493
+Risk factors only,Random Forest,Class weighting,22,ROC_AUC,0.7431192660550459
+Risk factors only,Random Forest,Class weighting,23,ROC_AUC,0.6720183486238531
+Risk factors only,Random Forest,Class weighting,24,ROC_AUC,0.6072247706422018
+Risk factors only,Random Forest,Class weighting,25,ROC_AUC,0.5727391874180865
+Risk factors only,Random Forest,Class weighting,1,Recall,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,2,Recall,0.125
+Risk factors only,Random Forest,Class weighting,3,Recall,0.0
+Risk factors only,Random Forest,Class weighting,4,Recall,0.0
+Risk factors only,Random Forest,Class weighting,5,Recall,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,6,Recall,0.0
+Risk factors only,Random Forest,Class weighting,7,Recall,0.0
+Risk factors only,Random Forest,Class weighting,8,Recall,0.0
+Risk factors only,Random Forest,Class weighting,9,Recall,0.25
+Risk factors only,Random Forest,Class weighting,10,Recall,0.0
+Risk factors only,Random Forest,Class weighting,11,Recall,0.0
+Risk factors only,Random Forest,Class weighting,12,Recall,0.125
+Risk factors only,Random Forest,Class weighting,13,Recall,0.25
+Risk factors only,Random Forest,Class weighting,14,Recall,0.125
+Risk factors only,Random Forest,Class weighting,15,Recall,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,16,Recall,0.0
+Risk factors only,Random Forest,Class weighting,17,Recall,0.0
+Risk factors only,Random Forest,Class weighting,18,Recall,0.25
+Risk factors only,Random Forest,Class weighting,19,Recall,0.0
+Risk factors only,Random Forest,Class weighting,20,Recall,0.2857142857142857
+Risk factors only,Random Forest,Class weighting,21,Recall,0.0
+Risk factors only,Random Forest,Class weighting,22,Recall,0.0
+Risk factors only,Random Forest,Class weighting,23,Recall,0.0
+Risk factors only,Random Forest,Class weighting,24,Recall,0.125
+Risk factors only,Random Forest,Class weighting,25,Recall,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,1,Precision,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,2,Precision,0.1
+Risk factors only,Random Forest,Class weighting,3,Precision,0.0
+Risk factors only,Random Forest,Class weighting,4,Precision,0.0
+Risk factors only,Random Forest,Class weighting,5,Precision,0.1
+Risk factors only,Random Forest,Class weighting,6,Precision,0.0
+Risk factors only,Random Forest,Class weighting,7,Precision,0.0
+Risk factors only,Random Forest,Class weighting,8,Precision,0.0
+Risk factors only,Random Forest,Class weighting,9,Precision,0.2222222222222222
+Risk factors only,Random Forest,Class weighting,10,Precision,0.0
+Risk factors only,Random Forest,Class weighting,11,Precision,0.0
+Risk factors only,Random Forest,Class weighting,12,Precision,0.1
+Risk factors only,Random Forest,Class weighting,13,Precision,0.4
+Risk factors only,Random Forest,Class weighting,14,Precision,0.09090909090909091
+Risk factors only,Random Forest,Class weighting,15,Precision,0.16666666666666666
+Risk factors only,Random Forest,Class weighting,16,Precision,0.0
+Risk factors only,Random Forest,Class weighting,17,Precision,0.0
+Risk factors only,Random Forest,Class weighting,18,Precision,0.25
+Risk factors only,Random Forest,Class weighting,19,Precision,0.0
+Risk factors only,Random Forest,Class weighting,20,Precision,0.18181818181818182
+Risk factors only,Random Forest,Class weighting,21,Precision,0.0
+Risk factors only,Random Forest,Class weighting,22,Precision,0.0
+Risk factors only,Random Forest,Class weighting,23,Precision,0.0
+Risk factors only,Random Forest,Class weighting,24,Precision,0.3333333333333333
+Risk factors only,Random Forest,Class weighting,25,Precision,0.125
+Risk factors only,Random Forest,Class weighting,1,F1,0.14285714285714285
+Risk factors only,Random Forest,Class weighting,2,F1,0.1111111111111111
+Risk factors only,Random Forest,Class weighting,3,F1,0.0
+Risk factors only,Random Forest,Class weighting,4,F1,0.0
+Risk factors only,Random Forest,Class weighting,5,F1,0.11764705882352941
+Risk factors only,Random Forest,Class weighting,6,F1,0.0
+Risk factors only,Random Forest,Class weighting,7,F1,0.0
+Risk factors only,Random Forest,Class weighting,8,F1,0.0
+Risk factors only,Random Forest,Class weighting,9,F1,0.23529411764705882
+Risk factors only,Random Forest,Class weighting,10,F1,0.0
+Risk factors only,Random Forest,Class weighting,11,F1,0.0
+Risk factors only,Random Forest,Class weighting,12,F1,0.1111111111111111
+Risk factors only,Random Forest,Class weighting,13,F1,0.3076923076923077
+Risk factors only,Random Forest,Class weighting,14,F1,0.10526315789473684
+Risk factors only,Random Forest,Class weighting,15,F1,0.15384615384615385
+Risk factors only,Random Forest,Class weighting,16,F1,0.0
+Risk factors only,Random Forest,Class weighting,17,F1,0.0
+Risk factors only,Random Forest,Class weighting,18,F1,0.25
+Risk factors only,Random Forest,Class weighting,19,F1,0.0
+Risk factors only,Random Forest,Class weighting,20,F1,0.2222222222222222
+Risk factors only,Random Forest,Class weighting,21,F1,0.0
+Risk factors only,Random Forest,Class weighting,22,F1,0.0
+Risk factors only,Random Forest,Class weighting,23,F1,0.0
+Risk factors only,Random Forest,Class weighting,24,F1,0.18181818181818182
+Risk factors only,Random Forest,Class weighting,25,F1,0.13333333333333333
+Risk factors only,Random Forest,Class weighting,1,Balanced_accuracy,0.5441558441558442
+Risk factors only,Random Forest,Class weighting,2,Balanced_accuracy,0.5212155963302753
+Risk factors only,Random Forest,Class weighting,3,Balanced_accuracy,0.4541284403669725
+Risk factors only,Random Forest,Class weighting,4,Balanced_accuracy,0.46788990825688076
+Risk factors only,Random Forest,Class weighting,5,Balanced_accuracy,0.5301441677588467
+Risk factors only,Random Forest,Class weighting,6,Balanced_accuracy,0.4909090909090909
+Risk factors only,Random Forest,Class weighting,7,Balanced_accuracy,0.463302752293578
+Risk factors only,Random Forest,Class weighting,8,Balanced_accuracy,0.47706422018348627
+Risk factors only,Random Forest,Class weighting,9,Balanced_accuracy,0.5928899082568808
+Risk factors only,Random Forest,Class weighting,10,Balanced_accuracy,0.45871559633027525
+Risk factors only,Random Forest,Class weighting,11,Balanced_accuracy,0.44545454545454544
+Risk factors only,Random Forest,Class weighting,12,Balanced_accuracy,0.5212155963302753
+Risk factors only,Random Forest,Class weighting,13,Balanced_accuracy,0.6112385321100917
+Risk factors only,Random Forest,Class weighting,14,Balanced_accuracy,0.5166284403669725
+Risk factors only,Random Forest,Class weighting,15,Balanced_accuracy,0.5484927916120577
+Risk factors only,Random Forest,Class weighting,16,Balanced_accuracy,0.4681818181818182
+Risk factors only,Random Forest,Class weighting,17,Balanced_accuracy,0.47706422018348627
+Risk factors only,Random Forest,Class weighting,18,Balanced_accuracy,0.5974770642201834
+Risk factors only,Random Forest,Class weighting,19,Balanced_accuracy,0.481651376146789
+Risk factors only,Random Forest,Class weighting,20,Balanced_accuracy,0.6015727391874182
+Risk factors only,Random Forest,Class weighting,21,Balanced_accuracy,0.45
+Risk factors only,Random Forest,Class weighting,22,Balanced_accuracy,0.46788990825688076
+Risk factors only,Random Forest,Class weighting,23,Balanced_accuracy,0.4724770642201835
+Risk factors only,Random Forest,Class weighting,24,Balanced_accuracy,0.5533256880733946
+Risk factors only,Random Forest,Class weighting,25,Balanced_accuracy,0.5393184796854522
+Risk factors only,Random Forest,Class weighting,1,MCC,0.08831168831168831
+Risk factors only,Random Forest,Class weighting,2,MCC,0.03830465831997055
+Risk factors only,Random Forest,Class weighting,3,MCC,-0.08282088285399036
+Risk factors only,Random Forest,Class weighting,4,MCC,-0.06834148666073314
+Risk factors only,Random Forest,Class weighting,5,MCC,0.0511496457301025
+Risk factors only,Random Forest,Class weighting,6,MCC,-0.03326739195652303
+Risk factors only,Random Forest,Class weighting,7,MCC,-0.07339449541284404
+Risk factors only,Random Forest,Class weighting,8,MCC,-0.05724106894344025
+Risk factors only,Random Forest,Class weighting,9,MCC,0.1759639245762994
+Risk factors only,Random Forest,Class weighting,10,MCC,-0.07349624260064311
+Risk factors only,Random Forest,Class weighting,11,MCC,-0.08528028654224418
+Risk factors only,Random Forest,Class weighting,12,MCC,0.03830465831997055
+Risk factors only,Random Forest,Class weighting,13,MCC,0.2776191843756852
+Risk factors only,Random Forest,Class weighting,14,MCC,0.028760105857301
+Risk factors only,Random Forest,Class weighting,15,MCC,0.10427915011818283
+Risk factors only,Random Forest,Class weighting,16,MCC,-0.06363636363636363
+Risk factors only,Random Forest,Class weighting,17,MCC,-0.05724106894344025
+Risk factors only,Random Forest,Class weighting,18,MCC,0.19495412844036697
+Risk factors only,Random Forest,Class weighting,19,MCC,-0.05097092539725845
+Risk factors only,Random Forest,Class weighting,20,MCC,0.16511192359842447
+Risk factors only,Random Forest,Class weighting,21,MCC,-0.08126360553720012
+Risk factors only,Random Forest,Class weighting,22,MCC,-0.06834148666073314
+Risk factors only,Random Forest,Class weighting,23,MCC,-0.06298626852192384
+Risk factors only,Random Forest,Class weighting,24,MCC,0.17029882561200646
+Risk factors only,Random Forest,Class weighting,25,MCC,0.07389790224568489
+Risk factors only,Random Forest,SMOTE,1,PR_AUC,0.22606294777347408
+Risk factors only,Random Forest,SMOTE,2,PR_AUC,0.21822148277728848
+Risk factors only,Random Forest,SMOTE,3,PR_AUC,0.19387759697739534
+Risk factors only,Random Forest,SMOTE,4,PR_AUC,0.13178554578020335
+Risk factors only,Random Forest,SMOTE,5,PR_AUC,0.10473742717288517
+Risk factors only,Random Forest,SMOTE,6,PR_AUC,0.24331621328956848
+Risk factors only,Random Forest,SMOTE,7,PR_AUC,0.10498656965289734
+Risk factors only,Random Forest,SMOTE,8,PR_AUC,0.09180407898438589
+Risk factors only,Random Forest,SMOTE,9,PR_AUC,0.1650877882673499
+Risk factors only,Random Forest,SMOTE,10,PR_AUC,0.07082218473126363
+Risk factors only,Random Forest,SMOTE,11,PR_AUC,0.07140934768205137
+Risk factors only,Random Forest,SMOTE,12,PR_AUC,0.14800626029697672
+Risk factors only,Random Forest,SMOTE,13,PR_AUC,0.47187744653215186
+Risk factors only,Random Forest,SMOTE,14,PR_AUC,0.27179202228544336
+Risk factors only,Random Forest,SMOTE,15,PR_AUC,0.23897478095145117
+Risk factors only,Random Forest,SMOTE,16,PR_AUC,0.080732626164957
+Risk factors only,Random Forest,SMOTE,17,PR_AUC,0.4699104382615021
+Risk factors only,Random Forest,SMOTE,18,PR_AUC,0.18866885094645913
+Risk factors only,Random Forest,SMOTE,19,PR_AUC,0.22650986283798785
+Risk factors only,Random Forest,SMOTE,20,PR_AUC,0.3745767770977855
+Risk factors only,Random Forest,SMOTE,21,PR_AUC,0.06326993823605034
+Risk factors only,Random Forest,SMOTE,22,PR_AUC,0.17945848723540847
+Risk factors only,Random Forest,SMOTE,23,PR_AUC,0.12738362950899215
+Risk factors only,Random Forest,SMOTE,24,PR_AUC,0.21786858974358975
+Risk factors only,Random Forest,SMOTE,25,PR_AUC,0.0893940516315419
+Risk factors only,Random Forest,SMOTE,1,ROC_AUC,0.6402597402597403
+Risk factors only,Random Forest,SMOTE,2,ROC_AUC,0.617545871559633
+Risk factors only,Random Forest,SMOTE,3,ROC_AUC,0.760894495412844
+Risk factors only,Random Forest,SMOTE,4,ROC_AUC,0.7006880733944953
+Risk factors only,Random Forest,SMOTE,5,ROC_AUC,0.6107470511140236
+Risk factors only,Random Forest,SMOTE,6,ROC_AUC,0.5785714285714285
+Risk factors only,Random Forest,SMOTE,7,ROC_AUC,0.5871559633027523
+Risk factors only,Random Forest,SMOTE,8,ROC_AUC,0.6169724770642202
+Risk factors only,Random Forest,SMOTE,9,ROC_AUC,0.5825688073394495
+Risk factors only,Random Forest,SMOTE,10,ROC_AUC,0.5222804718217562
+Risk factors only,Random Forest,SMOTE,11,ROC_AUC,0.522077922077922
+Risk factors only,Random Forest,SMOTE,12,ROC_AUC,0.676605504587156
+Risk factors only,Random Forest,SMOTE,13,ROC_AUC,0.8004587155963303
+Risk factors only,Random Forest,SMOTE,14,ROC_AUC,0.8090596330275229
+Risk factors only,Random Forest,SMOTE,15,ROC_AUC,0.6893840104849278
+Risk factors only,Random Forest,SMOTE,16,ROC_AUC,0.5662337662337662
+Risk factors only,Random Forest,SMOTE,17,ROC_AUC,0.7855504587155964
+Risk factors only,Random Forest,SMOTE,18,ROC_AUC,0.6599770642201834
+Risk factors only,Random Forest,SMOTE,19,ROC_AUC,0.6479357798165137
+Risk factors only,Random Forest,SMOTE,20,ROC_AUC,0.737221494102228
+Risk factors only,Random Forest,SMOTE,21,ROC_AUC,0.48376623376623384
+Risk factors only,Random Forest,SMOTE,22,ROC_AUC,0.6823394495412844
+Risk factors only,Random Forest,SMOTE,23,ROC_AUC,0.7052752293577981
+Risk factors only,Random Forest,SMOTE,24,ROC_AUC,0.6146788990825688
+Risk factors only,Random Forest,SMOTE,25,ROC_AUC,0.5294888597640891
+Risk factors only,Random Forest,SMOTE,1,Recall,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,2,Recall,0.125
+Risk factors only,Random Forest,SMOTE,3,Recall,0.0
+Risk factors only,Random Forest,SMOTE,4,Recall,0.0
+Risk factors only,Random Forest,SMOTE,5,Recall,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,6,Recall,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,7,Recall,0.0
+Risk factors only,Random Forest,SMOTE,8,Recall,0.0
+Risk factors only,Random Forest,SMOTE,9,Recall,0.25
+Risk factors only,Random Forest,SMOTE,10,Recall,0.0
+Risk factors only,Random Forest,SMOTE,11,Recall,0.0
+Risk factors only,Random Forest,SMOTE,12,Recall,0.125
+Risk factors only,Random Forest,SMOTE,13,Recall,0.375
+Risk factors only,Random Forest,SMOTE,14,Recall,0.125
+Risk factors only,Random Forest,SMOTE,15,Recall,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,16,Recall,0.0
+Risk factors only,Random Forest,SMOTE,17,Recall,0.25
+Risk factors only,Random Forest,SMOTE,18,Recall,0.125
+Risk factors only,Random Forest,SMOTE,19,Recall,0.125
+Risk factors only,Random Forest,SMOTE,20,Recall,0.2857142857142857
+Risk factors only,Random Forest,SMOTE,21,Recall,0.0
+Risk factors only,Random Forest,SMOTE,22,Recall,0.125
+Risk factors only,Random Forest,SMOTE,23,Recall,0.0
+Risk factors only,Random Forest,SMOTE,24,Recall,0.125
+Risk factors only,Random Forest,SMOTE,25,Recall,0.0
+Risk factors only,Random Forest,SMOTE,1,Precision,0.2
+Risk factors only,Random Forest,SMOTE,2,Precision,0.2
+Risk factors only,Random Forest,SMOTE,3,Precision,0.0
+Risk factors only,Random Forest,SMOTE,4,Precision,0.0
+Risk factors only,Random Forest,SMOTE,5,Precision,0.1
+Risk factors only,Random Forest,SMOTE,6,Precision,0.5
+Risk factors only,Random Forest,SMOTE,7,Precision,0.0
+Risk factors only,Random Forest,SMOTE,8,Precision,0.0
+Risk factors only,Random Forest,SMOTE,9,Precision,0.25
+Risk factors only,Random Forest,SMOTE,10,Precision,0.0
+Risk factors only,Random Forest,SMOTE,11,Precision,0.0
+Risk factors only,Random Forest,SMOTE,12,Precision,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,13,Precision,0.6
+Risk factors only,Random Forest,SMOTE,14,Precision,0.3333333333333333
+Risk factors only,Random Forest,SMOTE,15,Precision,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,16,Precision,0.0
+Risk factors only,Random Forest,SMOTE,17,Precision,0.6666666666666666
+Risk factors only,Random Forest,SMOTE,18,Precision,0.25
+Risk factors only,Random Forest,SMOTE,19,Precision,0.3333333333333333
+Risk factors only,Random Forest,SMOTE,20,Precision,0.3333333333333333
+Risk factors only,Random Forest,SMOTE,21,Precision,0.0
+Risk factors only,Random Forest,SMOTE,22,Precision,0.16666666666666666
+Risk factors only,Random Forest,SMOTE,23,Precision,0.0
+Risk factors only,Random Forest,SMOTE,24,Precision,0.5
+Risk factors only,Random Forest,SMOTE,25,Precision,0.0
+Risk factors only,Random Forest,SMOTE,1,F1,0.16666666666666666
+Risk factors only,Random Forest,SMOTE,2,F1,0.15384615384615385
+Risk factors only,Random Forest,SMOTE,3,F1,0.0
+Risk factors only,Random Forest,SMOTE,4,F1,0.0
+Risk factors only,Random Forest,SMOTE,5,F1,0.11764705882352941
+Risk factors only,Random Forest,SMOTE,6,F1,0.2222222222222222
+Risk factors only,Random Forest,SMOTE,7,F1,0.0
+Risk factors only,Random Forest,SMOTE,8,F1,0.0
+Risk factors only,Random Forest,SMOTE,9,F1,0.25
+Risk factors only,Random Forest,SMOTE,10,F1,0.0
+Risk factors only,Random Forest,SMOTE,11,F1,0.0
+Risk factors only,Random Forest,SMOTE,12,F1,0.13333333333333333
+Risk factors only,Random Forest,SMOTE,13,F1,0.46153846153846156
+Risk factors only,Random Forest,SMOTE,14,F1,0.18181818181818182
+Risk factors only,Random Forest,SMOTE,15,F1,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,16,F1,0.0
+Risk factors only,Random Forest,SMOTE,17,F1,0.36363636363636365
+Risk factors only,Random Forest,SMOTE,18,F1,0.16666666666666666
+Risk factors only,Random Forest,SMOTE,19,F1,0.18181818181818182
+Risk factors only,Random Forest,SMOTE,20,F1,0.3076923076923077
+Risk factors only,Random Forest,SMOTE,21,F1,0.0
+Risk factors only,Random Forest,SMOTE,22,F1,0.14285714285714285
+Risk factors only,Random Forest,SMOTE,23,F1,0.0
+Risk factors only,Random Forest,SMOTE,24,F1,0.2
+Risk factors only,Random Forest,SMOTE,25,F1,0.0
+Risk factors only,Random Forest,SMOTE,1,Balanced_accuracy,0.5532467532467532
+Risk factors only,Random Forest,SMOTE,2,Balanced_accuracy,0.544151376146789
+Risk factors only,Random Forest,SMOTE,3,Balanced_accuracy,0.48623853211009177
+Risk factors only,Random Forest,SMOTE,4,Balanced_accuracy,0.47706422018348627
+Risk factors only,Random Forest,SMOTE,5,Balanced_accuracy,0.5301441677588467
+Risk factors only,Random Forest,SMOTE,6,Balanced_accuracy,0.5668831168831169
+Risk factors only,Random Forest,SMOTE,7,Balanced_accuracy,0.4908256880733945
+Risk factors only,Random Forest,SMOTE,8,Balanced_accuracy,0.4724770642201835
+Risk factors only,Random Forest,SMOTE,9,Balanced_accuracy,0.5974770642201834
+Risk factors only,Random Forest,SMOTE,10,Balanced_accuracy,0.46788990825688076
+Risk factors only,Random Forest,SMOTE,11,Balanced_accuracy,0.4818181818181818
+Risk factors only,Random Forest,SMOTE,12,Balanced_accuracy,0.5349770642201834
+Risk factors only,Random Forest,SMOTE,13,Balanced_accuracy,0.6783256880733946
+Risk factors only,Random Forest,SMOTE,14,Balanced_accuracy,0.5533256880733946
+Risk factors only,Random Forest,SMOTE,15,Balanced_accuracy,0.5439056356487549
+Risk factors only,Random Forest,SMOTE,16,Balanced_accuracy,0.4818181818181818
+Risk factors only,Random Forest,SMOTE,17,Balanced_accuracy,0.6204128440366973
+Risk factors only,Random Forest,SMOTE,18,Balanced_accuracy,0.5487385321100917
+Risk factors only,Random Forest,SMOTE,19,Balanced_accuracy,0.5533256880733946
+Risk factors only,Random Forest,SMOTE,20,Balanced_accuracy,0.6245085190039319
+Risk factors only,Random Forest,SMOTE,21,Balanced_accuracy,0.4863636363636364
+Risk factors only,Random Forest,SMOTE,22,Balanced_accuracy,0.5395642201834863
+Risk factors only,Random Forest,SMOTE,23,Balanced_accuracy,0.47706422018348627
+Risk factors only,Random Forest,SMOTE,24,Balanced_accuracy,0.5579128440366973
+Risk factors only,Random Forest,SMOTE,25,Balanced_accuracy,0.481651376146789
+Risk factors only,Random Forest,SMOTE,1,MCC,0.12487470529400041
+Risk factors only,Random Forest,SMOTE,2,MCC,0.11018905771612249
+Risk factors only,Random Forest,SMOTE,3,MCC,-0.04394808402890489
+Risk factors only,Random Forest,SMOTE,4,MCC,-0.05724106894344025
+Risk factors only,Random Forest,SMOTE,5,MCC,0.0511496457301025
+Risk factors only,Random Forest,SMOTE,6,MCC,0.24475295510870512
+Risk factors only,Random Forest,SMOTE,7,MCC,-0.035727104657107274
+Risk factors only,Random Forest,SMOTE,8,MCC,-0.06298626852192384
+Risk factors only,Random Forest,SMOTE,9,MCC,0.19495412844036697
+Risk factors only,Random Forest,SMOTE,10,MCC,-0.06422018348623854
+Risk factors only,Random Forest,SMOTE,11,MCC,-0.04746171764691174
+Risk factors only,Random Forest,SMOTE,12,MCC,0.07444340511258431
+Risk factors only,Random Forest,SMOTE,13,MCC,0.4450493110352479
+Risk factors only,Random Forest,SMOTE,14,MCC,0.17029882561200646
+Risk factors only,Random Forest,SMOTE,15,MCC,0.08781127129750983
+Risk factors only,Random Forest,SMOTE,16,MCC,-0.04746171764691174
+Risk factors only,Random Forest,SMOTE,17,MCC,0.3845457352529178
+Risk factors only,Random Forest,SMOTE,18,MCC,0.13539152058646775
+Risk factors only,Random Forest,SMOTE,19,MCC,0.17029882561200646
+Risk factors only,Random Forest,SMOTE,20,MCC,0.2677437638169559
+Risk factors only,Random Forest,SMOTE,21,MCC,-0.04092237955355674
+Risk factors only,Random Forest,SMOTE,22,MCC,0.09054276100026552
+Risk factors only,Random Forest,SMOTE,23,MCC,-0.05724106894344025
+Risk factors only,Random Forest,SMOTE,24,MCC,0.22552734814798966
+Risk factors only,Random Forest,SMOTE,25,MCC,-0.04789131426105757
+Selected + diagnostics,Logistic Regression,Class weighting,1,PR_AUC,0.3515527950310559
+Selected + diagnostics,Logistic Regression,Class weighting,2,PR_AUC,0.5741179163973281
+Selected + diagnostics,Logistic Regression,Class weighting,3,PR_AUC,0.38961038961038963
+Selected + diagnostics,Logistic Regression,Class weighting,4,PR_AUC,0.8918650793650793
+Selected + diagnostics,Logistic Regression,Class weighting,5,PR_AUC,0.754004329004329
+Selected + diagnostics,Logistic Regression,Class weighting,6,PR_AUC,0.5077551020408163
+Selected + diagnostics,Logistic Regression,Class weighting,7,PR_AUC,0.7602678571428572
+Selected + diagnostics,Logistic Regression,Class weighting,8,PR_AUC,0.60069826007326
+Selected + diagnostics,Logistic Regression,Class weighting,9,PR_AUC,0.6876949643493762
+Selected + diagnostics,Logistic Regression,Class weighting,10,PR_AUC,0.8631519274376416
+Selected + diagnostics,Logistic Regression,Class weighting,11,PR_AUC,0.6177551020408163
+Selected + diagnostics,Logistic Regression,Class weighting,12,PR_AUC,0.9415178571428571
+Selected + diagnostics,Logistic Regression,Class weighting,13,PR_AUC,0.40071699134199135
+Selected + diagnostics,Logistic Regression,Class weighting,14,PR_AUC,0.5447370683600467
+Selected + diagnostics,Logistic Regression,Class weighting,15,PR_AUC,0.6665893630179345
+Selected + diagnostics,Logistic Regression,Class weighting,16,PR_AUC,0.6533189033189033
+Selected + diagnostics,Logistic Regression,Class weighting,17,PR_AUC,0.6336767399267399
+Selected + diagnostics,Logistic Regression,Class weighting,18,PR_AUC,0.4620851370851371
+Selected + diagnostics,Logistic Regression,Class weighting,19,PR_AUC,0.7565836940836941
+Selected + diagnostics,Logistic Regression,Class weighting,20,PR_AUC,0.9480519480519478
+Selected + diagnostics,Logistic Regression,Class weighting,21,PR_AUC,0.5968618954431087
+Selected + diagnostics,Logistic Regression,Class weighting,22,PR_AUC,0.7787698412698413
+Selected + diagnostics,Logistic Regression,Class weighting,23,PR_AUC,0.7014204545454545
+Selected + diagnostics,Logistic Regression,Class weighting,24,PR_AUC,0.4820500082795165
+Selected + diagnostics,Logistic Regression,Class weighting,25,PR_AUC,0.8385281385281385
+Selected + diagnostics,Logistic Regression,Class weighting,1,ROC_AUC,0.7025974025974027
+Selected + diagnostics,Logistic Regression,Class weighting,2,ROC_AUC,0.9311926605504587
+Selected + diagnostics,Logistic Regression,Class weighting,3,ROC_AUC,0.8784403669724771
+Selected + diagnostics,Logistic Regression,Class weighting,4,ROC_AUC,0.9908256880733944
+Selected + diagnostics,Logistic Regression,Class weighting,5,ROC_AUC,0.981651376146789
+Selected + diagnostics,Logistic Regression,Class weighting,6,ROC_AUC,0.9259740259740259
+Selected + diagnostics,Logistic Regression,Class weighting,7,ROC_AUC,0.9896788990825688
+Selected + diagnostics,Logistic Regression,Class weighting,8,ROC_AUC,0.9518348623853211
+Selected + diagnostics,Logistic Regression,Class weighting,9,ROC_AUC,0.9357798165137615
+Selected + diagnostics,Logistic Regression,Class weighting,10,ROC_AUC,0.9908256880733946
+Selected + diagnostics,Logistic Regression,Class weighting,11,ROC_AUC,0.8987012987012987
+Selected + diagnostics,Logistic Regression,Class weighting,12,ROC_AUC,0.9954128440366973
+Selected + diagnostics,Logistic Regression,Class weighting,13,ROC_AUC,0.9059633027522936
+Selected + diagnostics,Logistic Regression,Class weighting,14,ROC_AUC,0.738532110091743
+Selected + diagnostics,Logistic Regression,Class weighting,15,ROC_AUC,0.9777195281782438
+Selected + diagnostics,Logistic Regression,Class weighting,16,ROC_AUC,0.9701298701298702
+Selected + diagnostics,Logistic Regression,Class weighting,17,ROC_AUC,0.9231651376146789
+Selected + diagnostics,Logistic Regression,Class weighting,18,ROC_AUC,0.9162844036697249
+Selected + diagnostics,Logistic Regression,Class weighting,19,ROC_AUC,0.9850917431192661
+Selected + diagnostics,Logistic Regression,Class weighting,20,ROC_AUC,0.9947575360419397
+Selected + diagnostics,Logistic Regression,Class weighting,21,ROC_AUC,0.8844155844155844
+Selected + diagnostics,Logistic Regression,Class weighting,22,ROC_AUC,0.9827981651376148
+Selected + diagnostics,Logistic Regression,Class weighting,23,ROC_AUC,0.9782110091743119
+Selected + diagnostics,Logistic Regression,Class weighting,24,ROC_AUC,0.9139908256880733
+Selected + diagnostics,Logistic Regression,Class weighting,25,ROC_AUC,0.9868938401048493
+Selected + diagnostics,Logistic Regression,Class weighting,1,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,Class weighting,2,Recall,0.625
+Selected + diagnostics,Logistic Regression,Class weighting,3,Recall,0.75
+Selected + diagnostics,Logistic Regression,Class weighting,4,Recall,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,5,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,6,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,Class weighting,7,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,8,Recall,0.625
+Selected + diagnostics,Logistic Regression,Class weighting,9,Recall,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,10,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,11,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,Class weighting,12,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,13,Recall,0.75
+Selected + diagnostics,Logistic Regression,Class weighting,14,Recall,0.75
+Selected + diagnostics,Logistic Regression,Class weighting,15,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,Class weighting,16,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,17,Recall,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,18,Recall,0.625
+Selected + diagnostics,Logistic Regression,Class weighting,19,Recall,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,20,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,Class weighting,21,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,Class weighting,22,Recall,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,23,Recall,1.0
+Selected + diagnostics,Logistic Regression,Class weighting,24,Recall,0.75
+Selected + diagnostics,Logistic Regression,Class weighting,25,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,Class weighting,1,Precision,0.625
+Selected + diagnostics,Logistic Regression,Class weighting,2,Precision,0.5555555555555556
+Selected + diagnostics,Logistic Regression,Class weighting,3,Precision,0.5454545454545454
+Selected + diagnostics,Logistic Regression,Class weighting,4,Precision,0.6363636363636364
+Selected + diagnostics,Logistic Regression,Class weighting,5,Precision,0.5833333333333334
+Selected + diagnostics,Logistic Regression,Class weighting,6,Precision,0.5
+Selected + diagnostics,Logistic Regression,Class weighting,7,Precision,0.7272727272727273
+Selected + diagnostics,Logistic Regression,Class weighting,8,Precision,0.4166666666666667
+Selected + diagnostics,Logistic Regression,Class weighting,9,Precision,0.6363636363636364
+Selected + diagnostics,Logistic Regression,Class weighting,10,Precision,0.7777777777777778
+Selected + diagnostics,Logistic Regression,Class weighting,11,Precision,0.46153846153846156
+Selected + diagnostics,Logistic Regression,Class weighting,12,Precision,0.8
+Selected + diagnostics,Logistic Regression,Class weighting,13,Precision,0.46153846153846156
+Selected + diagnostics,Logistic Regression,Class weighting,14,Precision,0.5454545454545454
+Selected + diagnostics,Logistic Regression,Class weighting,15,Precision,0.6
+Selected + diagnostics,Logistic Regression,Class weighting,16,Precision,0.5384615384615384
+Selected + diagnostics,Logistic Regression,Class weighting,17,Precision,0.5384615384615384
+Selected + diagnostics,Logistic Regression,Class weighting,18,Precision,0.5555555555555556
+Selected + diagnostics,Logistic Regression,Class weighting,19,Precision,0.7
+Selected + diagnostics,Logistic Regression,Class weighting,20,Precision,0.75
+Selected + diagnostics,Logistic Regression,Class weighting,21,Precision,0.38461538461538464
+Selected + diagnostics,Logistic Regression,Class weighting,22,Precision,0.5384615384615384
+Selected + diagnostics,Logistic Regression,Class weighting,23,Precision,0.6153846153846154
+Selected + diagnostics,Logistic Regression,Class weighting,24,Precision,0.6
+Selected + diagnostics,Logistic Regression,Class weighting,25,Precision,0.8333333333333334
+Selected + diagnostics,Logistic Regression,Class weighting,1,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,Class weighting,2,F1,0.5882352941176471
+Selected + diagnostics,Logistic Regression,Class weighting,3,F1,0.631578947368421
+Selected + diagnostics,Logistic Regression,Class weighting,4,F1,0.7368421052631579
+Selected + diagnostics,Logistic Regression,Class weighting,5,F1,0.7368421052631579
+Selected + diagnostics,Logistic Regression,Class weighting,6,F1,0.631578947368421
+Selected + diagnostics,Logistic Regression,Class weighting,7,F1,0.8421052631578947
+Selected + diagnostics,Logistic Regression,Class weighting,8,F1,0.5
+Selected + diagnostics,Logistic Regression,Class weighting,9,F1,0.7368421052631579
+Selected + diagnostics,Logistic Regression,Class weighting,10,F1,0.875
+Selected + diagnostics,Logistic Regression,Class weighting,11,F1,0.6
+Selected + diagnostics,Logistic Regression,Class weighting,12,F1,0.8888888888888888
+Selected + diagnostics,Logistic Regression,Class weighting,13,F1,0.5714285714285714
+Selected + diagnostics,Logistic Regression,Class weighting,14,F1,0.631578947368421
+Selected + diagnostics,Logistic Regression,Class weighting,15,F1,0.7058823529411765
+Selected + diagnostics,Logistic Regression,Class weighting,16,F1,0.7
+Selected + diagnostics,Logistic Regression,Class weighting,17,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,Class weighting,18,F1,0.5882352941176471
+Selected + diagnostics,Logistic Regression,Class weighting,19,F1,0.7777777777777778
+Selected + diagnostics,Logistic Regression,Class weighting,20,F1,0.8
+Selected + diagnostics,Logistic Regression,Class weighting,21,F1,0.5
+Selected + diagnostics,Logistic Regression,Class weighting,22,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,Class weighting,23,F1,0.7619047619047619
+Selected + diagnostics,Logistic Regression,Class weighting,24,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,Class weighting,25,F1,0.7692307692307693
+Selected + diagnostics,Logistic Regression,Class weighting,1,Balanced_accuracy,0.8435064935064935
+Selected + diagnostics,Logistic Regression,Class weighting,2,Balanced_accuracy,0.794151376146789
+Selected + diagnostics,Logistic Regression,Class weighting,3,Balanced_accuracy,0.8520642201834863
+Selected + diagnostics,Logistic Regression,Class weighting,4,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Logistic Regression,Class weighting,5,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Logistic Regression,Class weighting,6,Balanced_accuracy,0.9012987012987013
+Selected + diagnostics,Logistic Regression,Class weighting,7,Balanced_accuracy,0.9862385321100917
+Selected + diagnostics,Logistic Regression,Class weighting,8,Balanced_accuracy,0.7803899082568808
+Selected + diagnostics,Logistic Regression,Class weighting,9,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Logistic Regression,Class weighting,10,Balanced_accuracy,0.9908256880733946
+Selected + diagnostics,Logistic Regression,Class weighting,11,Balanced_accuracy,0.8967532467532467
+Selected + diagnostics,Logistic Regression,Class weighting,12,Balanced_accuracy,0.9908256880733946
+Selected + diagnostics,Logistic Regression,Class weighting,13,Balanced_accuracy,0.8428899082568808
+Selected + diagnostics,Logistic Regression,Class weighting,14,Balanced_accuracy,0.8520642201834863
+Selected + diagnostics,Logistic Regression,Class weighting,15,Balanced_accuracy,0.9102228047182175
+Selected + diagnostics,Logistic Regression,Class weighting,16,Balanced_accuracy,0.9727272727272727
+Selected + diagnostics,Logistic Regression,Class weighting,17,Balanced_accuracy,0.9099770642201834
+Selected + diagnostics,Logistic Regression,Class weighting,18,Balanced_accuracy,0.794151376146789
+Selected + diagnostics,Logistic Regression,Class weighting,19,Balanced_accuracy,0.9237385321100917
+Selected + diagnostics,Logistic Regression,Class weighting,20,Balanced_accuracy,0.919397116644823
+Selected + diagnostics,Logistic Regression,Class weighting,21,Balanced_accuracy,0.8207792207792208
+Selected + diagnostics,Logistic Regression,Class weighting,22,Balanced_accuracy,0.9099770642201834
+Selected + diagnostics,Logistic Regression,Class weighting,23,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Logistic Regression,Class weighting,24,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,Class weighting,25,Balanced_accuracy,0.8525557011795544
+Selected + diagnostics,Logistic Regression,Class weighting,1,MCC,0.6455829722058541
+Selected + diagnostics,Logistic Regression,Class weighting,2,MCC,0.5572190944916147
+Selected + diagnostics,Logistic Regression,Class weighting,3,MCC,0.608920861944235
+Selected + diagnostics,Logistic Regression,Class weighting,4,MCC,0.7249530131616218
+Selected + diagnostics,Logistic Regression,Class weighting,5,MCC,0.7460394919489186
+Selected + diagnostics,Logistic Regression,Class weighting,6,MCC,0.6274192509893678
+Selected + diagnostics,Logistic Regression,Class weighting,7,MCC,0.8409851643790085
+Selected + diagnostics,Logistic Regression,Class weighting,8,MCC,0.46651471188903804
+Selected + diagnostics,Logistic Regression,Class weighting,9,MCC,0.7249530131616218
+Selected + diagnostics,Logistic Regression,Class weighting,10,MCC,0.873788662029868
+Selected + diagnostics,Logistic Regression,Class weighting,11,MCC,0.59883544993921
+Selected + diagnostics,Logistic Regression,Class weighting,12,MCC,0.886183446537697
+Selected + diagnostics,Logistic Regression,Class weighting,13,MCC,0.5507501140021621
+Selected + diagnostics,Logistic Regression,Class weighting,14,MCC,0.608920861944235
+Selected + diagnostics,Logistic Regression,Class weighting,15,MCC,0.6960799614574819
+Selected + diagnostics,Logistic Regression,Class weighting,16,MCC,0.7135060680126758
+Selected + diagnostics,Logistic Regression,Class weighting,17,MCC,0.6585055710895417
+Selected + diagnostics,Logistic Regression,Class weighting,18,MCC,0.5572190944916147
+Selected + diagnostics,Logistic Regression,Class weighting,19,MCC,0.7650579053637361
+Selected + diagnostics,Logistic Regression,Class weighting,20,MCC,0.7882442906206389
+Selected + diagnostics,Logistic Regression,Class weighting,21,MCC,0.48416483186574427
+Selected + diagnostics,Logistic Regression,Class weighting,22,MCC,0.6585055710895417
+Selected + diagnostics,Logistic Regression,Class weighting,23,MCC,0.7662610281769212
+Selected + diagnostics,Logistic Regression,Class weighting,24,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,Class weighting,25,MCC,0.7581376049132751
+Selected + diagnostics,Logistic Regression,SMOTE,1,PR_AUC,0.3523793728017523
+Selected + diagnostics,Logistic Regression,SMOTE,2,PR_AUC,0.5863556786350904
+Selected + diagnostics,Logistic Regression,SMOTE,3,PR_AUC,0.40470019746335534
+Selected + diagnostics,Logistic Regression,SMOTE,4,PR_AUC,0.8219246031746031
+Selected + diagnostics,Logistic Regression,SMOTE,5,PR_AUC,0.773051948051948
+Selected + diagnostics,Logistic Regression,SMOTE,6,PR_AUC,0.5077551020408163
+Selected + diagnostics,Logistic Regression,SMOTE,7,PR_AUC,0.7031746031746031
+Selected + diagnostics,Logistic Regression,SMOTE,8,PR_AUC,0.5337339743589744
+Selected + diagnostics,Logistic Regression,SMOTE,9,PR_AUC,0.6779214897421418
+Selected + diagnostics,Logistic Regression,SMOTE,10,PR_AUC,0.8441043083900226
+Selected + diagnostics,Logistic Regression,SMOTE,11,PR_AUC,0.6185062757497364
+Selected + diagnostics,Logistic Regression,SMOTE,12,PR_AUC,0.9206845238095238
+Selected + diagnostics,Logistic Regression,SMOTE,13,PR_AUC,0.42075285825285824
+Selected + diagnostics,Logistic Regression,SMOTE,14,PR_AUC,0.44375777479225753
+Selected + diagnostics,Logistic Regression,SMOTE,15,PR_AUC,0.6427798392084105
+Selected + diagnostics,Logistic Regression,SMOTE,16,PR_AUC,0.6354617604617605
+Selected + diagnostics,Logistic Regression,SMOTE,17,PR_AUC,0.6402658872135616
+Selected + diagnostics,Logistic Regression,SMOTE,18,PR_AUC,0.4501720501720502
+Selected + diagnostics,Logistic Regression,SMOTE,19,PR_AUC,0.737833694083694
+Selected + diagnostics,Logistic Regression,SMOTE,20,PR_AUC,0.7287981859410431
+Selected + diagnostics,Logistic Regression,SMOTE,21,PR_AUC,0.540855762594893
+Selected + diagnostics,Logistic Regression,SMOTE,22,PR_AUC,0.7441468253968253
+Selected + diagnostics,Logistic Regression,SMOTE,23,PR_AUC,0.673989898989899
+Selected + diagnostics,Logistic Regression,SMOTE,24,PR_AUC,0.47688492063492066
+Selected + diagnostics,Logistic Regression,SMOTE,25,PR_AUC,0.889848246991104
+Selected + diagnostics,Logistic Regression,SMOTE,1,ROC_AUC,0.7168831168831169
+Selected + diagnostics,Logistic Regression,SMOTE,2,ROC_AUC,0.9334862385321101
+Selected + diagnostics,Logistic Regression,SMOTE,3,ROC_AUC,0.9013761467889908
+Selected + diagnostics,Logistic Regression,SMOTE,4,ROC_AUC,0.9862385321100918
+Selected + diagnostics,Logistic Regression,SMOTE,5,ROC_AUC,0.982961992136304
+Selected + diagnostics,Logistic Regression,SMOTE,6,ROC_AUC,0.9259740259740261
+Selected + diagnostics,Logistic Regression,SMOTE,7,ROC_AUC,0.9850917431192661
+Selected + diagnostics,Logistic Regression,SMOTE,8,ROC_AUC,0.9461009174311926
+Selected + diagnostics,Logistic Regression,SMOTE,9,ROC_AUC,0.9403669724770642
+Selected + diagnostics,Logistic Regression,SMOTE,10,ROC_AUC,0.9895150720838795
+Selected + diagnostics,Logistic Regression,SMOTE,11,ROC_AUC,0.9038961038961039
+Selected + diagnostics,Logistic Regression,SMOTE,12,ROC_AUC,0.9942660550458715
+Selected + diagnostics,Logistic Regression,SMOTE,13,ROC_AUC,0.9277522935779816
+Selected + diagnostics,Logistic Regression,SMOTE,14,ROC_AUC,0.735091743119266
+Selected + diagnostics,Logistic Regression,SMOTE,15,ROC_AUC,0.9764089121887287
+Selected + diagnostics,Logistic Regression,SMOTE,16,ROC_AUC,0.9675324675324675
+Selected + diagnostics,Logistic Regression,SMOTE,17,ROC_AUC,0.9426605504587157
+Selected + diagnostics,Logistic Regression,SMOTE,18,ROC_AUC,0.9151376146788991
+Selected + diagnostics,Logistic Regression,SMOTE,19,ROC_AUC,0.9839449541284404
+Selected + diagnostics,Logistic Regression,SMOTE,20,ROC_AUC,0.9554390563564875
+Selected + diagnostics,Logistic Regression,SMOTE,21,ROC_AUC,0.8532467532467533
+Selected + diagnostics,Logistic Regression,SMOTE,22,ROC_AUC,0.9770642201834863
+Selected + diagnostics,Logistic Regression,SMOTE,23,ROC_AUC,0.9759174311926606
+Selected + diagnostics,Logistic Regression,SMOTE,24,ROC_AUC,0.9185779816513762
+Selected + diagnostics,Logistic Regression,SMOTE,25,ROC_AUC,0.9895150720838795
+Selected + diagnostics,Logistic Regression,SMOTE,1,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,SMOTE,2,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,3,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,4,Recall,0.875
+Selected + diagnostics,Logistic Regression,SMOTE,5,Recall,1.0
+Selected + diagnostics,Logistic Regression,SMOTE,6,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,SMOTE,7,Recall,1.0
+Selected + diagnostics,Logistic Regression,SMOTE,8,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,9,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,10,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,SMOTE,11,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,SMOTE,12,Recall,0.875
+Selected + diagnostics,Logistic Regression,SMOTE,13,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,14,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,15,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,SMOTE,16,Recall,1.0
+Selected + diagnostics,Logistic Regression,SMOTE,17,Recall,0.875
+Selected + diagnostics,Logistic Regression,SMOTE,18,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,19,Recall,0.875
+Selected + diagnostics,Logistic Regression,SMOTE,20,Recall,0.8571428571428571
+Selected + diagnostics,Logistic Regression,SMOTE,21,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,SMOTE,22,Recall,0.875
+Selected + diagnostics,Logistic Regression,SMOTE,23,Recall,1.0
+Selected + diagnostics,Logistic Regression,SMOTE,24,Recall,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,25,Recall,0.7142857142857143
+Selected + diagnostics,Logistic Regression,SMOTE,1,Precision,0.625
+Selected + diagnostics,Logistic Regression,SMOTE,2,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,3,Precision,0.5454545454545454
+Selected + diagnostics,Logistic Regression,SMOTE,4,Precision,0.7777777777777778
+Selected + diagnostics,Logistic Regression,SMOTE,5,Precision,0.5833333333333334
+Selected + diagnostics,Logistic Regression,SMOTE,6,Precision,0.5555555555555556
+Selected + diagnostics,Logistic Regression,SMOTE,7,Precision,0.7272727272727273
+Selected + diagnostics,Logistic Regression,SMOTE,8,Precision,0.46153846153846156
+Selected + diagnostics,Logistic Regression,SMOTE,9,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,10,Precision,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,11,Precision,0.5454545454545454
+Selected + diagnostics,Logistic Regression,SMOTE,12,Precision,0.7777777777777778
+Selected + diagnostics,Logistic Regression,SMOTE,13,Precision,0.5
+Selected + diagnostics,Logistic Regression,SMOTE,14,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,15,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,16,Precision,0.5833333333333334
+Selected + diagnostics,Logistic Regression,SMOTE,17,Precision,0.5384615384615384
+Selected + diagnostics,Logistic Regression,SMOTE,18,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,19,Precision,0.7
+Selected + diagnostics,Logistic Regression,SMOTE,20,Precision,0.75
+Selected + diagnostics,Logistic Regression,SMOTE,21,Precision,0.38461538461538464
+Selected + diagnostics,Logistic Regression,SMOTE,22,Precision,0.5384615384615384
+Selected + diagnostics,Logistic Regression,SMOTE,23,Precision,0.6153846153846154
+Selected + diagnostics,Logistic Regression,SMOTE,24,Precision,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,25,Precision,0.8333333333333334
+Selected + diagnostics,Logistic Regression,SMOTE,1,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,2,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,3,F1,0.631578947368421
+Selected + diagnostics,Logistic Regression,SMOTE,4,F1,0.8235294117647058
+Selected + diagnostics,Logistic Regression,SMOTE,5,F1,0.7368421052631579
+Selected + diagnostics,Logistic Regression,SMOTE,6,F1,0.625
+Selected + diagnostics,Logistic Regression,SMOTE,7,F1,0.8421052631578947
+Selected + diagnostics,Logistic Regression,SMOTE,8,F1,0.5714285714285714
+Selected + diagnostics,Logistic Regression,SMOTE,9,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,10,F1,0.8
+Selected + diagnostics,Logistic Regression,SMOTE,11,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,12,F1,0.8235294117647058
+Selected + diagnostics,Logistic Regression,SMOTE,13,F1,0.6
+Selected + diagnostics,Logistic Regression,SMOTE,14,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,15,F1,0.7058823529411765
+Selected + diagnostics,Logistic Regression,SMOTE,16,F1,0.7368421052631579
+Selected + diagnostics,Logistic Regression,SMOTE,17,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,18,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,19,F1,0.7777777777777778
+Selected + diagnostics,Logistic Regression,SMOTE,20,F1,0.8
+Selected + diagnostics,Logistic Regression,SMOTE,21,F1,0.5
+Selected + diagnostics,Logistic Regression,SMOTE,22,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,23,F1,0.7619047619047619
+Selected + diagnostics,Logistic Regression,SMOTE,24,F1,0.6666666666666666
+Selected + diagnostics,Logistic Regression,SMOTE,25,F1,0.7692307692307693
+Selected + diagnostics,Logistic Regression,SMOTE,1,Balanced_accuracy,0.8435064935064935
+Selected + diagnostics,Logistic Regression,SMOTE,2,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,SMOTE,3,Balanced_accuracy,0.8520642201834863
+Selected + diagnostics,Logistic Regression,SMOTE,4,Balanced_accuracy,0.9283256880733946
+Selected + diagnostics,Logistic Regression,SMOTE,5,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Logistic Regression,SMOTE,6,Balanced_accuracy,0.8389610389610389
+Selected + diagnostics,Logistic Regression,SMOTE,7,Balanced_accuracy,0.9862385321100917
+Selected + diagnostics,Logistic Regression,SMOTE,8,Balanced_accuracy,0.8428899082568808
+Selected + diagnostics,Logistic Regression,SMOTE,9,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,SMOTE,10,Balanced_accuracy,0.919397116644823
+Selected + diagnostics,Logistic Regression,SMOTE,11,Balanced_accuracy,0.9058441558441559
+Selected + diagnostics,Logistic Regression,SMOTE,12,Balanced_accuracy,0.9283256880733946
+Selected + diagnostics,Logistic Regression,SMOTE,13,Balanced_accuracy,0.8474770642201834
+Selected + diagnostics,Logistic Regression,SMOTE,14,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,SMOTE,15,Balanced_accuracy,0.9102228047182175
+Selected + diagnostics,Logistic Regression,SMOTE,16,Balanced_accuracy,0.9772727272727273
+Selected + diagnostics,Logistic Regression,SMOTE,17,Balanced_accuracy,0.9099770642201834
+Selected + diagnostics,Logistic Regression,SMOTE,18,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,SMOTE,19,Balanced_accuracy,0.9237385321100917
+Selected + diagnostics,Logistic Regression,SMOTE,20,Balanced_accuracy,0.919397116644823
+Selected + diagnostics,Logistic Regression,SMOTE,21,Balanced_accuracy,0.8207792207792208
+Selected + diagnostics,Logistic Regression,SMOTE,22,Balanced_accuracy,0.9099770642201834
+Selected + diagnostics,Logistic Regression,SMOTE,23,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Logistic Regression,SMOTE,24,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Logistic Regression,SMOTE,25,Balanced_accuracy,0.8525557011795544
+Selected + diagnostics,Logistic Regression,SMOTE,1,MCC,0.6455829722058541
+Selected + diagnostics,Logistic Regression,SMOTE,2,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,SMOTE,3,MCC,0.608920861944235
+Selected + diagnostics,Logistic Regression,SMOTE,4,MCC,0.8113892077684915
+Selected + diagnostics,Logistic Regression,SMOTE,5,MCC,0.7460394919489186
+Selected + diagnostics,Logistic Regression,SMOTE,6,MCC,0.6033815244679472
+Selected + diagnostics,Logistic Regression,SMOTE,7,MCC,0.8409851643790085
+Selected + diagnostics,Logistic Regression,SMOTE,8,MCC,0.5507501140021621
+Selected + diagnostics,Logistic Regression,SMOTE,9,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,SMOTE,10,MCC,0.7882442906206389
+Selected + diagnostics,Logistic Regression,SMOTE,11,MCC,0.6596071878019489
+Selected + diagnostics,Logistic Regression,SMOTE,12,MCC,0.8113892077684915
+Selected + diagnostics,Logistic Regression,SMOTE,13,MCC,0.5781347963287465
+Selected + diagnostics,Logistic Regression,SMOTE,14,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,SMOTE,15,MCC,0.6960799614574819
+Selected + diagnostics,Logistic Regression,SMOTE,16,MCC,0.7462025072446364
+Selected + diagnostics,Logistic Regression,SMOTE,17,MCC,0.6585055710895417
+Selected + diagnostics,Logistic Regression,SMOTE,18,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,SMOTE,19,MCC,0.7650579053637361
+Selected + diagnostics,Logistic Regression,SMOTE,20,MCC,0.7882442906206389
+Selected + diagnostics,Logistic Regression,SMOTE,21,MCC,0.48416483186574427
+Selected + diagnostics,Logistic Regression,SMOTE,22,MCC,0.6585055710895417
+Selected + diagnostics,Logistic Regression,SMOTE,23,MCC,0.7662610281769212
+Selected + diagnostics,Logistic Regression,SMOTE,24,MCC,0.6439323641897751
+Selected + diagnostics,Logistic Regression,SMOTE,25,MCC,0.7581376049132751
+Selected + diagnostics,Random Forest,Class weighting,1,PR_AUC,0.5947541178633615
+Selected + diagnostics,Random Forest,Class weighting,2,PR_AUC,0.5316964285714286
+Selected + diagnostics,Random Forest,Class weighting,3,PR_AUC,0.7078869047619047
+Selected + diagnostics,Random Forest,Class weighting,4,PR_AUC,0.959375
+Selected + diagnostics,Random Forest,Class weighting,5,PR_AUC,0.5603483817769532
+Selected + diagnostics,Random Forest,Class weighting,6,PR_AUC,0.5445475159760873
+Selected + diagnostics,Random Forest,Class weighting,7,PR_AUC,0.8106150793650794
+Selected + diagnostics,Random Forest,Class weighting,8,PR_AUC,0.5004806049213943
+Selected + diagnostics,Random Forest,Class weighting,9,PR_AUC,0.879375
+Selected + diagnostics,Random Forest,Class weighting,10,PR_AUC,0.8083900226757368
+Selected + diagnostics,Random Forest,Class weighting,11,PR_AUC,0.7798185941043083
+Selected + diagnostics,Random Forest,Class weighting,12,PR_AUC,0.9206845238095238
+Selected + diagnostics,Random Forest,Class weighting,13,PR_AUC,0.4856280071837347
+Selected + diagnostics,Random Forest,Class weighting,14,PR_AUC,0.4694399350649351
+Selected + diagnostics,Random Forest,Class weighting,15,PR_AUC,0.7607709750566893
+Selected + diagnostics,Random Forest,Class weighting,16,PR_AUC,0.8687074829931971
+Selected + diagnostics,Random Forest,Class weighting,17,PR_AUC,0.49639496927803384
+Selected + diagnostics,Random Forest,Class weighting,18,PR_AUC,0.5422905525846702
+Selected + diagnostics,Random Forest,Class weighting,19,PR_AUC,0.8
+Selected + diagnostics,Random Forest,Class weighting,20,PR_AUC,0.9682539682539681
+Selected + diagnostics,Random Forest,Class weighting,21,PR_AUC,0.5387369132049984
+Selected + diagnostics,Random Forest,Class weighting,22,PR_AUC,0.9704861111111112
+Selected + diagnostics,Random Forest,Class weighting,23,PR_AUC,0.6785353535353535
+Selected + diagnostics,Random Forest,Class weighting,24,PR_AUC,0.526489898989899
+Selected + diagnostics,Random Forest,Class weighting,25,PR_AUC,0.8736394557823128
+Selected + diagnostics,Random Forest,Class weighting,1,ROC_AUC,0.9188311688311688
+Selected + diagnostics,Random Forest,Class weighting,2,ROC_AUC,0.9455275229357798
+Selected + diagnostics,Random Forest,Class weighting,3,ROC_AUC,0.9627293577981652
+Selected + diagnostics,Random Forest,Class weighting,4,ROC_AUC,0.9965596330275229
+Selected + diagnostics,Random Forest,Class weighting,5,ROC_AUC,0.971821756225426
+Selected + diagnostics,Random Forest,Class weighting,6,ROC_AUC,0.9610389610389611
+Selected + diagnostics,Random Forest,Class weighting,7,ROC_AUC,0.9896788990825689
+Selected + diagnostics,Random Forest,Class weighting,8,ROC_AUC,0.9610091743119265
+Selected + diagnostics,Random Forest,Class weighting,9,ROC_AUC,0.9575688073394495
+Selected + diagnostics,Random Forest,Class weighting,10,ROC_AUC,0.9882044560943644
+Selected + diagnostics,Random Forest,Class weighting,11,ROC_AUC,0.9584415584415584
+Selected + diagnostics,Random Forest,Class weighting,12,ROC_AUC,0.9942660550458715
+Selected + diagnostics,Random Forest,Class weighting,13,ROC_AUC,0.9237385321100917
+Selected + diagnostics,Random Forest,Class weighting,14,ROC_AUC,0.9329128440366972
+Selected + diagnostics,Random Forest,Class weighting,15,ROC_AUC,0.9868938401048493
+Selected + diagnostics,Random Forest,Class weighting,16,ROC_AUC,0.9896103896103896
+Selected + diagnostics,Random Forest,Class weighting,17,ROC_AUC,0.948967889908257
+Selected + diagnostics,Random Forest,Class weighting,18,ROC_AUC,0.948394495412844
+Selected + diagnostics,Random Forest,Class weighting,19,ROC_AUC,0.988532110091743
+Selected + diagnostics,Random Forest,Class weighting,20,ROC_AUC,0.9973787680209698
+Selected + diagnostics,Random Forest,Class weighting,21,ROC_AUC,0.9207792207792208
+Selected + diagnostics,Random Forest,Class weighting,22,ROC_AUC,0.9977064220183487
+Selected + diagnostics,Random Forest,Class weighting,23,ROC_AUC,0.9759174311926606
+Selected + diagnostics,Random Forest,Class weighting,24,ROC_AUC,0.9581422018348624
+Selected + diagnostics,Random Forest,Class weighting,25,ROC_AUC,0.9934469200524246
+Selected + diagnostics,Random Forest,Class weighting,1,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,2,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,3,Recall,0.75
+Selected + diagnostics,Random Forest,Class weighting,4,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,5,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,6,Recall,0.5714285714285714
+Selected + diagnostics,Random Forest,Class weighting,7,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,8,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,9,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,10,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,Class weighting,11,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,Class weighting,12,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,13,Recall,0.75
+Selected + diagnostics,Random Forest,Class weighting,14,Recall,0.75
+Selected + diagnostics,Random Forest,Class weighting,15,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,16,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,17,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,18,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,19,Recall,0.625
+Selected + diagnostics,Random Forest,Class weighting,20,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,Class weighting,21,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,22,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,23,Recall,1.0
+Selected + diagnostics,Random Forest,Class weighting,24,Recall,0.875
+Selected + diagnostics,Random Forest,Class weighting,25,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,1,Precision,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,2,Precision,0.7
+Selected + diagnostics,Random Forest,Class weighting,3,Precision,0.6
+Selected + diagnostics,Random Forest,Class weighting,4,Precision,0.7777777777777778
+Selected + diagnostics,Random Forest,Class weighting,5,Precision,0.5833333333333334
+Selected + diagnostics,Random Forest,Class weighting,6,Precision,0.5
+Selected + diagnostics,Random Forest,Class weighting,7,Precision,0.8
+Selected + diagnostics,Random Forest,Class weighting,8,Precision,0.6363636363636364
+Selected + diagnostics,Random Forest,Class weighting,9,Precision,0.7
+Selected + diagnostics,Random Forest,Class weighting,10,Precision,0.75
+Selected + diagnostics,Random Forest,Class weighting,11,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,Class weighting,12,Precision,0.8
+Selected + diagnostics,Random Forest,Class weighting,13,Precision,0.5454545454545454
+Selected + diagnostics,Random Forest,Class weighting,14,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,Class weighting,15,Precision,0.7777777777777778
+Selected + diagnostics,Random Forest,Class weighting,16,Precision,0.6363636363636364
+Selected + diagnostics,Random Forest,Class weighting,17,Precision,0.5833333333333334
+Selected + diagnostics,Random Forest,Class weighting,18,Precision,0.6363636363636364
+Selected + diagnostics,Random Forest,Class weighting,19,Precision,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,20,Precision,0.8571428571428571
+Selected + diagnostics,Random Forest,Class weighting,21,Precision,0.5
+Selected + diagnostics,Random Forest,Class weighting,22,Precision,0.7272727272727273
+Selected + diagnostics,Random Forest,Class weighting,23,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,Class weighting,24,Precision,0.6363636363636364
+Selected + diagnostics,Random Forest,Class weighting,25,Precision,0.8333333333333334
+Selected + diagnostics,Random Forest,Class weighting,1,F1,0.7142857142857143
+Selected + diagnostics,Random Forest,Class weighting,2,F1,0.7777777777777778
+Selected + diagnostics,Random Forest,Class weighting,3,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,Class weighting,4,F1,0.8235294117647058
+Selected + diagnostics,Random Forest,Class weighting,5,F1,0.7368421052631579
+Selected + diagnostics,Random Forest,Class weighting,6,F1,0.5333333333333333
+Selected + diagnostics,Random Forest,Class weighting,7,F1,0.8888888888888888
+Selected + diagnostics,Random Forest,Class weighting,8,F1,0.7368421052631579
+Selected + diagnostics,Random Forest,Class weighting,9,F1,0.7777777777777778
+Selected + diagnostics,Random Forest,Class weighting,10,F1,0.8
+Selected + diagnostics,Random Forest,Class weighting,11,F1,0.75
+Selected + diagnostics,Random Forest,Class weighting,12,F1,0.8888888888888888
+Selected + diagnostics,Random Forest,Class weighting,13,F1,0.631578947368421
+Selected + diagnostics,Random Forest,Class weighting,14,F1,0.7058823529411765
+Selected + diagnostics,Random Forest,Class weighting,15,F1,0.875
+Selected + diagnostics,Random Forest,Class weighting,16,F1,0.7777777777777778
+Selected + diagnostics,Random Forest,Class weighting,17,F1,0.7
+Selected + diagnostics,Random Forest,Class weighting,18,F1,0.7368421052631579
+Selected + diagnostics,Random Forest,Class weighting,19,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,Class weighting,20,F1,0.8571428571428571
+Selected + diagnostics,Random Forest,Class weighting,21,F1,0.5882352941176471
+Selected + diagnostics,Random Forest,Class weighting,22,F1,0.8421052631578947
+Selected + diagnostics,Random Forest,Class weighting,23,F1,0.8
+Selected + diagnostics,Random Forest,Class weighting,24,F1,0.7368421052631579
+Selected + diagnostics,Random Forest,Class weighting,25,F1,0.7692307692307693
+Selected + diagnostics,Random Forest,Class weighting,1,Balanced_accuracy,0.8480519480519481
+Selected + diagnostics,Random Forest,Class weighting,2,Balanced_accuracy,0.9237385321100917
+Selected + diagnostics,Random Forest,Class weighting,3,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Random Forest,Class weighting,4,Balanced_accuracy,0.9283256880733946
+Selected + diagnostics,Random Forest,Class weighting,5,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Random Forest,Class weighting,6,Balanced_accuracy,0.7675324675324675
+Selected + diagnostics,Random Forest,Class weighting,7,Balanced_accuracy,0.9908256880733946
+Selected + diagnostics,Random Forest,Class weighting,8,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Random Forest,Class weighting,9,Balanced_accuracy,0.9237385321100917
+Selected + diagnostics,Random Forest,Class weighting,10,Balanced_accuracy,0.919397116644823
+Selected + diagnostics,Random Forest,Class weighting,11,Balanced_accuracy,0.9149350649350649
+Selected + diagnostics,Random Forest,Class weighting,12,Balanced_accuracy,0.9908256880733946
+Selected + diagnostics,Random Forest,Class weighting,13,Balanced_accuracy,0.8520642201834863
+Selected + diagnostics,Random Forest,Class weighting,14,Balanced_accuracy,0.8612385321100917
+Selected + diagnostics,Random Forest,Class weighting,15,Balanced_accuracy,0.9908256880733946
+Selected + diagnostics,Random Forest,Class weighting,16,Balanced_accuracy,0.9818181818181818
+Selected + diagnostics,Random Forest,Class weighting,17,Balanced_accuracy,0.9145642201834863
+Selected + diagnostics,Random Forest,Class weighting,18,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Random Forest,Class weighting,19,Balanced_accuracy,0.8033256880733946
+Selected + diagnostics,Random Forest,Class weighting,20,Balanced_accuracy,0.9239842726081258
+Selected + diagnostics,Random Forest,Class weighting,21,Balanced_accuracy,0.8344155844155845
+Selected + diagnostics,Random Forest,Class weighting,22,Balanced_accuracy,0.9862385321100917
+Selected + diagnostics,Random Forest,Class weighting,23,Balanced_accuracy,0.981651376146789
+Selected + diagnostics,Random Forest,Class weighting,24,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Random Forest,Class weighting,25,Balanced_accuracy,0.8525557011795544
+Selected + diagnostics,Random Forest,Class weighting,1,MCC,0.6961038961038961
+Selected + diagnostics,Random Forest,Class weighting,2,MCC,0.7650579053637361
+Selected + diagnostics,Random Forest,Class weighting,3,MCC,0.6439323641897751
+Selected + diagnostics,Random Forest,Class weighting,4,MCC,0.8113892077684915
+Selected + diagnostics,Random Forest,Class weighting,5,MCC,0.7460394919489186
+Selected + diagnostics,Random Forest,Class weighting,6,MCC,0.5027980804325367
+Selected + diagnostics,Random Forest,Class weighting,7,MCC,0.886183446537697
+Selected + diagnostics,Random Forest,Class weighting,8,MCC,0.7249530131616218
+Selected + diagnostics,Random Forest,Class weighting,9,MCC,0.7650579053637361
+Selected + diagnostics,Random Forest,Class weighting,10,MCC,0.7882442906206389
+Selected + diagnostics,Random Forest,Class weighting,11,MCC,0.7386222109866251
+Selected + diagnostics,Random Forest,Class weighting,12,MCC,0.886183446537697
+Selected + diagnostics,Random Forest,Class weighting,13,MCC,0.608920861944235
+Selected + diagnostics,Random Forest,Class weighting,14,MCC,0.6843041511300532
+Selected + diagnostics,Random Forest,Class weighting,15,MCC,0.873788662029868
+Selected + diagnostics,Random Forest,Class weighting,16,MCC,0.7830856533584738
+Selected + diagnostics,Random Forest,Class weighting,17,MCC,0.689754880768455
+Selected + diagnostics,Random Forest,Class weighting,18,MCC,0.7249530131616218
+Selected + diagnostics,Random Forest,Class weighting,19,MCC,0.6455829722058541
+Selected + diagnostics,Random Forest,Class weighting,20,MCC,0.8479685452162516
+Selected + diagnostics,Random Forest,Class weighting,21,MCC,0.5673747150174829
+Selected + diagnostics,Random Forest,Class weighting,22,MCC,0.8409851643790085
+Selected + diagnostics,Random Forest,Class weighting,23,MCC,0.8013749652081635
+Selected + diagnostics,Random Forest,Class weighting,24,MCC,0.7249530131616218
+Selected + diagnostics,Random Forest,Class weighting,25,MCC,0.7581376049132751
+Selected + diagnostics,Random Forest,SMOTE,1,PR_AUC,0.47724867724867726
+Selected + diagnostics,Random Forest,SMOTE,2,PR_AUC,0.6546260351966873
+Selected + diagnostics,Random Forest,SMOTE,3,PR_AUC,0.443452380952381
+Selected + diagnostics,Random Forest,SMOTE,4,PR_AUC,0.7217261904761905
+Selected + diagnostics,Random Forest,SMOTE,5,PR_AUC,0.4493978243978244
+Selected + diagnostics,Random Forest,SMOTE,6,PR_AUC,0.4322216254923022
+Selected + diagnostics,Random Forest,SMOTE,7,PR_AUC,0.579727910977911
+Selected + diagnostics,Random Forest,SMOTE,8,PR_AUC,0.44240689865689864
+Selected + diagnostics,Random Forest,SMOTE,9,PR_AUC,0.788320707070707
+Selected + diagnostics,Random Forest,SMOTE,10,PR_AUC,0.6187074829931973
+Selected + diagnostics,Random Forest,SMOTE,11,PR_AUC,0.5690785405071119
+Selected + diagnostics,Random Forest,SMOTE,12,PR_AUC,0.5816287878787878
+Selected + diagnostics,Random Forest,SMOTE,13,PR_AUC,0.5092490842490842
+Selected + diagnostics,Random Forest,SMOTE,14,PR_AUC,0.5293810803891449
+Selected + diagnostics,Random Forest,SMOTE,15,PR_AUC,0.48188327962764055
+Selected + diagnostics,Random Forest,SMOTE,16,PR_AUC,0.5466353207949847
+Selected + diagnostics,Random Forest,SMOTE,17,PR_AUC,0.5418612637362636
+Selected + diagnostics,Random Forest,SMOTE,18,PR_AUC,0.572883064516129
+Selected + diagnostics,Random Forest,SMOTE,19,PR_AUC,0.5910714285714286
+Selected + diagnostics,Random Forest,SMOTE,20,PR_AUC,0.6962585034013605
+Selected + diagnostics,Random Forest,SMOTE,21,PR_AUC,0.36599908028479455
+Selected + diagnostics,Random Forest,SMOTE,22,PR_AUC,0.599585137085137
+Selected + diagnostics,Random Forest,SMOTE,23,PR_AUC,0.6582656926406927
+Selected + diagnostics,Random Forest,SMOTE,24,PR_AUC,0.45548340548340543
+Selected + diagnostics,Random Forest,SMOTE,25,PR_AUC,0.6559833024118737
+Selected + diagnostics,Random Forest,SMOTE,1,ROC_AUC,0.9350649350649352
+Selected + diagnostics,Random Forest,SMOTE,2,ROC_AUC,0.9438073394495413
+Selected + diagnostics,Random Forest,SMOTE,3,ROC_AUC,0.9461009174311927
+Selected + diagnostics,Random Forest,SMOTE,4,ROC_AUC,0.9850917431192661
+Selected + diagnostics,Random Forest,SMOTE,5,ROC_AUC,0.95740498034076
+Selected + diagnostics,Random Forest,SMOTE,6,ROC_AUC,0.9422077922077923
+Selected + diagnostics,Random Forest,SMOTE,7,ROC_AUC,0.970756880733945
+Selected + diagnostics,Random Forest,SMOTE,8,ROC_AUC,0.9409403669724771
+Selected + diagnostics,Random Forest,SMOTE,9,ROC_AUC,0.9420871559633027
+Selected + diagnostics,Random Forest,SMOTE,10,ROC_AUC,0.9777195281782438
+Selected + diagnostics,Random Forest,SMOTE,11,ROC_AUC,0.9428571428571428
+Selected + diagnostics,Random Forest,SMOTE,12,ROC_AUC,0.974197247706422
+Selected + diagnostics,Random Forest,SMOTE,13,ROC_AUC,0.9392201834862385
+Selected + diagnostics,Random Forest,SMOTE,14,ROC_AUC,0.9403669724770642
+Selected + diagnostics,Random Forest,SMOTE,15,ROC_AUC,0.9587155963302751
+Selected + diagnostics,Random Forest,SMOTE,16,ROC_AUC,0.9545454545454545
+Selected + diagnostics,Random Forest,SMOTE,17,ROC_AUC,0.966743119266055
+Selected + diagnostics,Random Forest,SMOTE,18,ROC_AUC,0.9426605504587156
+Selected + diagnostics,Random Forest,SMOTE,19,ROC_AUC,0.9684633027522935
+Selected + diagnostics,Random Forest,SMOTE,20,ROC_AUC,0.981651376146789
+Selected + diagnostics,Random Forest,SMOTE,21,ROC_AUC,0.824025974025974
+Selected + diagnostics,Random Forest,SMOTE,22,ROC_AUC,0.974197247706422
+Selected + diagnostics,Random Forest,SMOTE,23,ROC_AUC,0.9759174311926606
+Selected + diagnostics,Random Forest,SMOTE,24,ROC_AUC,0.9472477064220184
+Selected + diagnostics,Random Forest,SMOTE,25,ROC_AUC,0.9652686762778505
+Selected + diagnostics,Random Forest,SMOTE,1,Recall,0.5714285714285714
+Selected + diagnostics,Random Forest,SMOTE,2,Recall,0.75
+Selected + diagnostics,Random Forest,SMOTE,3,Recall,0.5
+Selected + diagnostics,Random Forest,SMOTE,4,Recall,0.75
+Selected + diagnostics,Random Forest,SMOTE,5,Recall,1.0
+Selected + diagnostics,Random Forest,SMOTE,6,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,SMOTE,7,Recall,1.0
+Selected + diagnostics,Random Forest,SMOTE,8,Recall,0.75
+Selected + diagnostics,Random Forest,SMOTE,9,Recall,0.875
+Selected + diagnostics,Random Forest,SMOTE,10,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,SMOTE,11,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,SMOTE,12,Recall,1.0
+Selected + diagnostics,Random Forest,SMOTE,13,Recall,0.75
+Selected + diagnostics,Random Forest,SMOTE,14,Recall,0.625
+Selected + diagnostics,Random Forest,SMOTE,15,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,SMOTE,16,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,SMOTE,17,Recall,0.875
+Selected + diagnostics,Random Forest,SMOTE,18,Recall,0.75
+Selected + diagnostics,Random Forest,SMOTE,19,Recall,0.625
+Selected + diagnostics,Random Forest,SMOTE,20,Recall,0.8571428571428571
+Selected + diagnostics,Random Forest,SMOTE,21,Recall,0.7142857142857143
+Selected + diagnostics,Random Forest,SMOTE,22,Recall,1.0
+Selected + diagnostics,Random Forest,SMOTE,23,Recall,1.0
+Selected + diagnostics,Random Forest,SMOTE,24,Recall,0.5
+Selected + diagnostics,Random Forest,SMOTE,25,Recall,0.5714285714285714
+Selected + diagnostics,Random Forest,SMOTE,1,Precision,0.5
+Selected + diagnostics,Random Forest,SMOTE,2,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,3,Precision,0.4444444444444444
+Selected + diagnostics,Random Forest,SMOTE,4,Precision,0.75
+Selected + diagnostics,Random Forest,SMOTE,5,Precision,0.5384615384615384
+Selected + diagnostics,Random Forest,SMOTE,6,Precision,0.625
+Selected + diagnostics,Random Forest,SMOTE,7,Precision,0.6153846153846154
+Selected + diagnostics,Random Forest,SMOTE,8,Precision,0.6
+Selected + diagnostics,Random Forest,SMOTE,9,Precision,0.6363636363636364
+Selected + diagnostics,Random Forest,SMOTE,10,Precision,0.6
+Selected + diagnostics,Random Forest,SMOTE,11,Precision,0.5
+Selected + diagnostics,Random Forest,SMOTE,12,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,13,Precision,0.46153846153846156
+Selected + diagnostics,Random Forest,SMOTE,14,Precision,0.5555555555555556
+Selected + diagnostics,Random Forest,SMOTE,15,Precision,0.5
+Selected + diagnostics,Random Forest,SMOTE,16,Precision,0.35714285714285715
+Selected + diagnostics,Random Forest,SMOTE,17,Precision,0.5384615384615384
+Selected + diagnostics,Random Forest,SMOTE,18,Precision,0.6
+Selected + diagnostics,Random Forest,SMOTE,19,Precision,0.625
+Selected + diagnostics,Random Forest,SMOTE,20,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,21,Precision,0.4166666666666667
+Selected + diagnostics,Random Forest,SMOTE,22,Precision,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,23,Precision,0.6153846153846154
+Selected + diagnostics,Random Forest,SMOTE,24,Precision,0.4444444444444444
+Selected + diagnostics,Random Forest,SMOTE,25,Precision,0.5714285714285714
+Selected + diagnostics,Random Forest,SMOTE,1,F1,0.5333333333333333
+Selected + diagnostics,Random Forest,SMOTE,2,F1,0.7058823529411765
+Selected + diagnostics,Random Forest,SMOTE,3,F1,0.47058823529411764
+Selected + diagnostics,Random Forest,SMOTE,4,F1,0.75
+Selected + diagnostics,Random Forest,SMOTE,5,F1,0.7
+Selected + diagnostics,Random Forest,SMOTE,6,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,7,F1,0.7619047619047619
+Selected + diagnostics,Random Forest,SMOTE,8,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,9,F1,0.7368421052631579
+Selected + diagnostics,Random Forest,SMOTE,10,F1,0.7058823529411765
+Selected + diagnostics,Random Forest,SMOTE,11,F1,0.5882352941176471
+Selected + diagnostics,Random Forest,SMOTE,12,F1,0.8
+Selected + diagnostics,Random Forest,SMOTE,13,F1,0.5714285714285714
+Selected + diagnostics,Random Forest,SMOTE,14,F1,0.5882352941176471
+Selected + diagnostics,Random Forest,SMOTE,15,F1,0.631578947368421
+Selected + diagnostics,Random Forest,SMOTE,16,F1,0.47619047619047616
+Selected + diagnostics,Random Forest,SMOTE,17,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,18,F1,0.6666666666666666
+Selected + diagnostics,Random Forest,SMOTE,19,F1,0.625
+Selected + diagnostics,Random Forest,SMOTE,20,F1,0.75
+Selected + diagnostics,Random Forest,SMOTE,21,F1,0.5263157894736842
+Selected + diagnostics,Random Forest,SMOTE,22,F1,0.8
+Selected + diagnostics,Random Forest,SMOTE,23,F1,0.7619047619047619
+Selected + diagnostics,Random Forest,SMOTE,24,F1,0.47058823529411764
+Selected + diagnostics,Random Forest,SMOTE,25,F1,0.5714285714285714
+Selected + diagnostics,Random Forest,SMOTE,1,Balanced_accuracy,0.7675324675324675
+Selected + diagnostics,Random Forest,SMOTE,2,Balanced_accuracy,0.8612385321100917
+Selected + diagnostics,Random Forest,SMOTE,3,Balanced_accuracy,0.7270642201834863
+Selected + diagnostics,Random Forest,SMOTE,4,Balanced_accuracy,0.8658256880733946
+Selected + diagnostics,Random Forest,SMOTE,5,Balanced_accuracy,0.9724770642201834
+Selected + diagnostics,Random Forest,SMOTE,6,Balanced_accuracy,0.8435064935064935
+Selected + diagnostics,Random Forest,SMOTE,7,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Random Forest,SMOTE,8,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Random Forest,SMOTE,9,Balanced_accuracy,0.919151376146789
+Selected + diagnostics,Random Forest,SMOTE,10,Balanced_accuracy,0.9102228047182175
+Selected + diagnostics,Random Forest,SMOTE,11,Balanced_accuracy,0.8344155844155845
+Selected + diagnostics,Random Forest,SMOTE,12,Balanced_accuracy,0.981651376146789
+Selected + diagnostics,Random Forest,SMOTE,13,Balanced_accuracy,0.8428899082568808
+Selected + diagnostics,Random Forest,SMOTE,14,Balanced_accuracy,0.794151376146789
+Selected + diagnostics,Random Forest,SMOTE,15,Balanced_accuracy,0.901048492791612
+Selected + diagnostics,Random Forest,SMOTE,16,Balanced_accuracy,0.8162337662337662
+Selected + diagnostics,Random Forest,SMOTE,17,Balanced_accuracy,0.9099770642201834
+Selected + diagnostics,Random Forest,SMOTE,18,Balanced_accuracy,0.856651376146789
+Selected + diagnostics,Random Forest,SMOTE,19,Balanced_accuracy,0.7987385321100917
+Selected + diagnostics,Random Forest,SMOTE,20,Balanced_accuracy,0.9148099606815203
+Selected + diagnostics,Random Forest,SMOTE,21,Balanced_accuracy,0.8253246753246753
+Selected + diagnostics,Random Forest,SMOTE,22,Balanced_accuracy,0.981651376146789
+Selected + diagnostics,Random Forest,SMOTE,23,Balanced_accuracy,0.9770642201834863
+Selected + diagnostics,Random Forest,SMOTE,24,Balanced_accuracy,0.7270642201834863
+Selected + diagnostics,Random Forest,SMOTE,25,Balanced_accuracy,0.7719528178243775
+Selected + diagnostics,Random Forest,SMOTE,1,MCC,0.5027980804325367
+Selected + diagnostics,Random Forest,SMOTE,2,MCC,0.6843041511300532
+Selected + diagnostics,Random Forest,SMOTE,3,MCC,0.4301340378531763
+Selected + diagnostics,Random Forest,SMOTE,4,MCC,0.731651376146789
+Selected + diagnostics,Random Forest,SMOTE,5,MCC,0.7133172181964923
+Selected + diagnostics,Random Forest,SMOTE,6,MCC,0.6455829722058541
+Selected + diagnostics,Random Forest,SMOTE,7,MCC,0.7662610281769212
+Selected + diagnostics,Random Forest,SMOTE,8,MCC,0.6439323641897751
+Selected + diagnostics,Random Forest,SMOTE,9,MCC,0.7249530131616218
+Selected + diagnostics,Random Forest,SMOTE,10,MCC,0.6960799614574819
+Selected + diagnostics,Random Forest,SMOTE,11,MCC,0.5673747150174829
+Selected + diagnostics,Random Forest,SMOTE,12,MCC,0.8013749652081635
+Selected + diagnostics,Random Forest,SMOTE,13,MCC,0.5507501140021621
+Selected + diagnostics,Random Forest,SMOTE,14,MCC,0.5572190944916147
+Selected + diagnostics,Random Forest,SMOTE,15,MCC,0.6271650674076074
+Selected + diagnostics,Random Forest,SMOTE,16,MCC,0.46216916668576313
+Selected + diagnostics,Random Forest,SMOTE,17,MCC,0.6585055710895417
+Selected + diagnostics,Random Forest,SMOTE,18,MCC,0.6439323641897751
+Selected + diagnostics,Random Forest,SMOTE,19,MCC,0.5974770642201835
+Selected + diagnostics,Random Forest,SMOTE,20,MCC,0.7384622470826522
+Selected + diagnostics,Random Forest,SMOTE,21,MCC,0.5086359947340992
+Selected + diagnostics,Random Forest,SMOTE,22,MCC,0.8013749652081635
+Selected + diagnostics,Random Forest,SMOTE,23,MCC,0.7662610281769212
+Selected + diagnostics,Random Forest,SMOTE,24,MCC,0.4301340378531763
+Selected + diagnostics,Random Forest,SMOTE,25,MCC,0.5439056356487549
